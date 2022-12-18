@@ -1,0 +1,1358 @@
+[
+    {
+        "name": "Tout ce que le ciel permet",
+        "critiquePress": 5,
+        "spectateur": 4.2,
+        "date": "18 septembre 1963",
+        "score": 1075480.5492352918,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-3034/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//9BZRrJK3iMILX0KP8eLb2E4sPqs.jpg"
+    },
+    {
+        "name": "Le Parrain, 2e partie",
+        "critiquePress": 4.7,
+        "spectateur": 4.5,
+        "date": "27 août 1975",
+        "score": 682606.4400000001,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-28201/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg"
+    },
+    {
+        "name": "L'Etrange Noël de M. Jack",
+        "critiquePress": 4.8,
+        "spectateur": 4.2,
+        "date": "7 décembre 1994",
+        "score": 489776.0256000001,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-27633/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//oQffRNjK8e19rF7xVYEN8ew0j7b.jpg"
+    },
+    {
+        "name": "Ascenseur pour l'échafaud",
+        "critiquePress": 4.3,
+        "spectateur": 4,
+        "date": "1 février 1958",
+        "score": 431298.3710164457,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-27559/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//dLbf8LtbLQFM7KUaVgwkfKIPqXu.jpg"
+    },
+    {
+        "name": "Porco Rosso",
+        "critiquePress": 4.8,
+        "spectateur": 4.1,
+        "date": "21 juin 1995",
+        "score": 411547.91039999976,
+        "language": "ja",
+        "url": "https://www.allocine.fr/seance/film-10257/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//byKAndF6KQSDpGxp1mTr23jPbYp.jpg"
+    },
+    {
+        "name": "Edward aux mains d'argent",
+        "critiquePress": 4.4,
+        "spectateur": 4.4,
+        "date": "10 avril 1991",
+        "score": 403275.8016000004,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-27624/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//1RFIbuW9Z3eN9Oxw2KaQG5DfLmD.jpg"
+    },
+    {
+        "name": "Mon voisin Totoro",
+        "critiquePress": 4.4,
+        "spectateur": 4.3,
+        "date": "8 décembre 1999",
+        "score": 347722.50240000006,
+        "language": "ja",
+        "url": "https://www.allocine.fr/seance/film-14790/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//rtGDOeG9LzoerkDGZF9dnVeLppL.jpg"
+    },
+    {
+        "name": "Ernest et Célestine",
+        "critiquePress": 4.3,
+        "spectateur": 4.3,
+        "date": "12 décembre 2012",
+        "score": 299821.9535999999,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-202924/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//9DpJBgBbW1sG9U70NAHcvAvmMZl.jpg"
+    },
+    {
+        "name": "Avatar : la voie de l'eau",
+        "critiquePress": 4.2,
+        "spectateur": 4.4,
+        "date": "14 décembre 2022",
+        "score": 296284.26240000024,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-178014/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//94xxm5701CzOdJdUEdIuwqZaowx.jpg"
+    },
+    {
+        "name": "Coco",
+        "critiquePress": 4.1,
+        "spectateur": 4.5,
+        "date": "15 novembre 2017",
+        "score": 285797.1599999998,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-206775/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg"
+    },
+    {
+        "name": "La Nuit du 12",
+        "critiquePress": 4.4,
+        "spectateur": 4.1,
+        "date": "13 juillet 2022",
+        "score": 248961.08159999998,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-295635/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//pdvjOATCD51GxMe5XpQb3h7gJON.jpg"
+    },
+    {
+        "name": "Mulholland Drive",
+        "critiquePress": 4.7,
+        "spectateur": 3.9,
+        "date": "21 novembre 2001",
+        "score": 245738.31839999996,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-28682/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//tVxGt7uffLVhIIcwuldXOMpFBPX.jpg"
+    },
+    {
+        "name": "Princes et princesses",
+        "critiquePress": 4.1,
+        "spectateur": 4.1,
+        "date": "26 janvier 2000",
+        "score": 153695.3615999998,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-22159/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//gP1PDJmbsF5J2teuond2OtRiEaC.jpg"
+    },
+    {
+        "name": "L'Innocent",
+        "critiquePress": 4.1,
+        "spectateur": 4,
+        "date": "12 octobre 2022",
+        "score": 127020.95999999992,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-284675/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//yKJrsWzHupuJ7Yvc0cekkW21rg4.jpg"
+    },
+    {
+        "name": "Armageddon Time",
+        "critiquePress": 4.4,
+        "spectateur": 3.7,
+        "date": "9 novembre 2022",
+        "score": 100818.9504000001,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-274315/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//2bVjSEaLsUxUZ4Dutz9qRF5zXyd.jpg"
+    },
+    {
+        "name": "Top Gun: Maverick",
+        "critiquePress": 3.7,
+        "spectateur": 4.4,
+        "date": "25 mai 2022",
+        "score": 100818.9504000001,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-186636/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//62HCnUTziyWcpDaBO2i1DX17ljH.jpg"
+    },
+    {
+        "name": "Le Petit Nicolas - Qu’est-ce qu’on attend pour être heureux ?",
+        "critiquePress": 3.9,
+        "spectateur": 4,
+        "date": "12 octobre 2022",
+        "score": 85030.56,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-270135/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//96IgO4KJrry9k5ZVrwJxsLFgubF.jpg"
+    },
+    {
+        "name": "Yuku et la fleur de l’Himalaya",
+        "critiquePress": 3.9,
+        "spectateur": 3.9,
+        "date": "19 octobre 2022",
+        "score": 68874.75359999998,
+        "language": "et",
+        "url": "https://www.allocine.fr/seance/film-291134/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//8bBmqaVxQFtdLJYB0CCcuwnhptc.jpg"
+    },
+    {
+        "name": "Annie Colère",
+        "critiquePress": 3.8,
+        "spectateur": 4,
+        "date": "30 novembre 2022",
+        "score": 67184.63999999997,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-280229/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//cAQb2UUFII6FOdjBa921dNFxqUg.jpg"
+    },
+    {
+        "name": "Aucun ours",
+        "critiquePress": 4,
+        "spectateur": 3.8,
+        "date": "23 novembre 2022",
+        "score": 67184.63999999997,
+        "language": "fa",
+        "url": "https://www.allocine.fr/seance/film-306537/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//AqxE1Pm7EmnhKDe6pXBJF4sHLMU.jpg"
+    },
+    {
+        "name": "Les Pires",
+        "critiquePress": 4,
+        "spectateur": 3.8,
+        "date": "7 décembre 2022",
+        "score": 67184.63999999997,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-283585/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//7YW7t1UbZxdo07tiqMZ0QLZtVIH.jpg"
+    },
+    {
+        "name": "La Conspiration du Caire",
+        "critiquePress": 3.8,
+        "spectateur": 4,
+        "date": "26 octobre 2022",
+        "score": 67184.63999999997,
+        "language": "ar",
+        "url": "https://www.allocine.fr/seance/film-280670/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//uV9vncbbQlwtTSOv9vPVYkbmN4X.jpg"
+    },
+    {
+        "name": "Le Serment de Pamfir",
+        "critiquePress": 3.8,
+        "spectateur": 4,
+        "date": "2 novembre 2022",
+        "score": 67184.63999999997,
+        "language": "uk",
+        "url": "https://www.allocine.fr/seance/film-285787/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//cXjLP4zqnQOfTtdzoKNKksNwb11.jpg"
+    },
+    {
+        "name": "Le Bal",
+        "critiquePress": 4,
+        "spectateur": 3.8,
+        "date": "21 décembre 1983",
+        "score": 67184.63999999997,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-126/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//cAWB2CFtLg2cKYlQqbaHPEA2vBF.jpg"
+    },
+    {
+        "name": "Un jour sans fin",
+        "critiquePress": 3.8,
+        "spectateur": 4,
+        "date": "28 juillet 1993",
+        "score": 67184.63999999997,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-8066/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//fyuhkgPQSXiToYMQ3bIk2uVoulb.jpg"
+    },
+    {
+        "name": "Harka",
+        "critiquePress": 4,
+        "spectateur": 3.8,
+        "date": "2 novembre 2022",
+        "score": 67184.63999999997,
+        "language": "ar",
+        "url": "https://www.allocine.fr/seance/film-303882/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//kW3kSwXP1SeAHu2VN0BL2cg960R.jpg"
+    },
+    {
+        "name": "La Poupée",
+        "critiquePress": 4.8,
+        "spectateur": 3.3,
+        "date": "7 décembre 2022",
+        "score": 63358.44603053641,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-41788/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500/null"
+    },
+    {
+        "name": "Ernest et Célestine : le voyage en Charabie",
+        "critiquePress": 3.7,
+        "spectateur": 4.1,
+        "date": "14 décembre 2022",
+        "score": 62240.270399999994,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-293756/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//e2C0ElYfdvuGylhyCHbY2VzqFHY.jpg"
+    },
+    {
+        "name": "Les Amandiers",
+        "critiquePress": 4.1,
+        "spectateur": 3.7,
+        "date": "16 novembre 2022",
+        "score": 62240.270399999994,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-286637/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//eFhEIyrYtDleDE4IyHGZOYxjmsa.jpg"
+    },
+    {
+        "name": "Ghost Dog: la voie du samourai",
+        "critiquePress": 4.1,
+        "spectateur": 3.7,
+        "date": "6 octobre 1999",
+        "score": 62240.270399999994,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-20172/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//gjcl07r9zgQ9tVo9alyHmysPFfX.jpg"
+    },
+    {
+        "name": "Les Enfants des autres",
+        "critiquePress": 4.1,
+        "spectateur": 3.7,
+        "date": "21 septembre 2022",
+        "score": 62240.270399999994,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-289898/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//9LPK8q3EDlk0PEvAQnhUtb6BAJb.jpg"
+    },
+    {
+        "name": "EO",
+        "critiquePress": 4.2,
+        "spectateur": 3.6,
+        "date": "19 octobre 2022",
+        "score": 54419.55840000002,
+        "language": "pl",
+        "url": "https://www.allocine.fr/seance/film-303572/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg"
+    },
+    {
+        "name": "R.M.N.",
+        "critiquePress": 3.9,
+        "spectateur": 3.8,
+        "date": "19 octobre 2022",
+        "score": 54419.55839999997,
+        "language": "ro",
+        "url": "https://www.allocine.fr/seance/film-299722/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//kDcEfgF7CUo0IYLIazUYYqxagTG.jpg"
+    },
+    {
+        "name": "Falcon Lake",
+        "critiquePress": 3.8,
+        "spectateur": 3.9,
+        "date": "7 décembre 2022",
+        "score": 54419.558399999965,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-289988/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//nPnLHaEYXl84nhYrASdSFBZKXxd.jpg"
+    },
+    {
+        "name": "L’Ombre de Goya",
+        "critiquePress": 3.8,
+        "spectateur": 3.9,
+        "date": "21 septembre 2022",
+        "score": 54419.558399999965,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-304117/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//vkByTQnZy0fB9qqutNE0lZyWcjq.jpg"
+    },
+    {
+        "name": "Drôle de frimousse",
+        "critiquePress": 3.9,
+        "spectateur": null,
+        "date": "17 mai 1957",
+        "score": 53672.870881006755,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-26519/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//1CW8Wn2itBQ7wACBQHpOyIbPpmD.jpg"
+    },
+    {
+        "name": "La Marche de l'Empereur",
+        "critiquePress": 4,
+        "spectateur": 3.7,
+        "date": "26 janvier 2005",
+        "score": 51438.24000000003,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-57615/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//o9xJ1xG1WKlHkl8ACqq0LShOuMu.jpg"
+    },
+    {
+        "name": "Le Pharaon, le Sauvage et la princesse",
+        "critiquePress": 3.7,
+        "spectateur": 3.8,
+        "date": "19 octobre 2022",
+        "score": 32920.4736,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-300843/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//epYj0ISzFprNgk4Oy6zFXJRCPBq.jpg"
+    },
+    {
+        "name": "Sous les figues",
+        "critiquePress": 3.7,
+        "spectateur": 3.8,
+        "date": "7 décembre 2022",
+        "score": 32920.4736,
+        "language": "ar",
+        "url": "https://www.allocine.fr/seance/film-303338/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//3jyLNkI4O8RxXkhMa6tcMJafF1f.jpg"
+    },
+    {
+        "name": "Millennium Mambo",
+        "critiquePress": 4.1,
+        "spectateur": 3.5,
+        "date": "31 octobre 2001",
+        "score": 31755.23999999998,
+        "language": "zh",
+        "url": "https://www.allocine.fr/seance/film-34873/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//zaPDSAlrGKV4Bgz6vvkZxPZrrxD.jpg"
+    },
+    {
+        "name": "Ariaferma",
+        "critiquePress": 3.6,
+        "spectateur": 3.9,
+        "date": "16 novembre 2022",
+        "score": 30611.0016,
+        "language": "it",
+        "url": "https://www.allocine.fr/seance/film-294775/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//fT8cjGXzdSUe8CV2tnfY4wVT6zX.jpg"
+    },
+    {
+        "name": "Il nous reste la colère",
+        "critiquePress": 3.6,
+        "spectateur": 3.9,
+        "date": "7 décembre 2022",
+        "score": 30611.0016,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-305813/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//9FikfYWdDMwzkPehM9kEBwMlrLd.jpg"
+    },
+    {
+        "name": "Gremlins",
+        "critiquePress": 4,
+        "spectateur": null,
+        "date": "5 décembre 1984",
+        "score": 26244,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-339/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//72Y1X9pMSjXQ7mKB6pBEoMhL0OQ.jpg"
+    },
+    {
+        "name": "Soleil vert",
+        "critiquePress": 4,
+        "spectateur": null,
+        "date": "26 juin 1974",
+        "score": 26244,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-300/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//5nbkShkOEXUoKVhaX0XG41wyBkq.jpg"
+    },
+    {
+        "name": "Les Bonnes étoiles",
+        "critiquePress": 3.7,
+        "spectateur": 3.7,
+        "date": "7 décembre 2022",
+        "score": 25204.737600000026,
+        "language": "ko",
+        "url": "https://www.allocine.fr/seance/film-286075/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//hhoINfy92ufsdsrSeovpQyVrOUD.jpg"
+    },
+    {
+        "name": "Le Lycéen",
+        "critiquePress": 3.8,
+        "spectateur": 3.6,
+        "date": "30 novembre 2022",
+        "score": 24186.470399999995,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-297304/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//bzBX78p8O19XI1kBZtZ0fU724Bb.jpg"
+    },
+    {
+        "name": "Inu-Oh",
+        "critiquePress": 3.8,
+        "spectateur": 3.6,
+        "date": "23 novembre 2022",
+        "score": 24186.470399999995,
+        "language": "ja",
+        "url": "https://www.allocine.fr/seance/film-294777/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//mPOPnbUx36YXxglvIprfVoulgJt.jpg"
+    },
+    {
+        "name": "La Générale",
+        "critiquePress": 3.6,
+        "spectateur": 3.8,
+        "date": "23 novembre 2022",
+        "score": 24186.470399999995,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-286768/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//yoYbq6H4jMUMNSWx86wgVDnmnvc.jpg"
+    },
+    {
+        "name": "Lost Highway",
+        "critiquePress": 3.9,
+        "spectateur": null,
+        "date": "15 janvier 1997",
+        "score": 21257.64,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-15682/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//5POhfNeFPIi4VUNwCTaK85sh98r.jpg"
+    },
+    {
+        "name": "Mystery Train",
+        "critiquePress": 3.9,
+        "spectateur": null,
+        "date": "6 septembre 1989",
+        "score": 21257.64,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-4964/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//f11xq7dBGhz9UDc3dabldAGeXVH.jpg"
+    },
+    {
+        "name": "Saint Omer",
+        "critiquePress": 4.2,
+        "spectateur": 3.1,
+        "date": "23 novembre 2022",
+        "score": 20599.693973898695,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-280206/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//ekr25uuxlH7kg3KLhLLZcDZ15xd.jpg"
+    },
+    {
+        "name": "Juste sous vos yeux",
+        "critiquePress": 4.1,
+        "spectateur": 3.2,
+        "date": "21 septembre 2022",
+        "score": 20287.3382038185,
+        "language": "ko",
+        "url": "https://www.allocine.fr/seance/film-293086/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//5eDyiqOejNJHSVfWzO81whrgytJ.jpg"
+    },
+    {
+        "name": "Les Miens",
+        "critiquePress": 3.6,
+        "spectateur": 3.7,
+        "date": "23 novembre 2022",
+        "score": 18517.766400000015,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-290172/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//3GiTQ770hEiEJL6M4l7bmoN4zOe.jpg"
+    },
+    {
+        "name": "Plus que jamais",
+        "critiquePress": 3.7,
+        "spectateur": 3.6,
+        "date": "16 novembre 2022",
+        "score": 18517.766400000015,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-291970/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//d900vS2Xz9XOhYCTE50jwLFZDlo.jpg"
+    },
+    {
+        "name": "Les Repentis",
+        "critiquePress": 3.6,
+        "spectateur": 3.7,
+        "date": "9 novembre 2022",
+        "score": 18517.766400000015,
+        "language": "es",
+        "url": "https://www.allocine.fr/seance/film-290533/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//7lOcGma9G2yak5qB6ITwg3j0PDm.jpg"
+    },
+    {
+        "name": "Les Harkis",
+        "critiquePress": 3.9,
+        "spectateur": 3.4,
+        "date": "12 octobre 2022",
+        "score": 18389.478415219564,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-271290/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//93DtXQdmylr80TDjAzlER8uQ9Kk.jpg"
+    },
+    {
+        "name": "Reste un peu",
+        "critiquePress": 3.7,
+        "spectateur": 3.5,
+        "date": "16 novembre 2022",
+        "score": 12859.560000000007,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-305613/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//4DPXlPwyH3HIjVQdpA2Jez6cJpI.jpg"
+    },
+    {
+        "name": "Autour de minuit",
+        "critiquePress": 3.7,
+        "spectateur": null,
+        "date": "18 septembre 1986",
+        "score": 12859.560000000007,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-2136/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//8aNGnEsvLBldNvaBkfYkGGgZDhe.jpg"
+    },
+    {
+        "name": "Cambio de sexo (Je veux être femme)",
+        "critiquePress": 3.8,
+        "spectateur": 3.2,
+        "date": "23 novembre 2022",
+        "score": 10730.49293425111,
+        "url": "https://www.allocine.fr/seance/film-38183/pres-de-115755/"
+    },
+    {
+        "name": "Certains l'aiment chaud",
+        "critiquePress": 3.2,
+        "spectateur": 4.2,
+        "date": "9 septembre 1959",
+        "score": 10633.406541214583,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-26186/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//hVIKyTK13AvOGv7ICmJjK44DTzp.jpg"
+    },
+    {
+        "name": "Days",
+        "critiquePress": 3.9,
+        "spectateur": 3,
+        "date": "30 novembre 2022",
+        "score": 9835.152534063185,
+        "language": "pl",
+        "url": "https://www.allocine.fr/seance/film-280801/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//7qU0SOVcQ8BTJLodcAlulUAG16C.jpg"
+    },
+    {
+        "name": "Les Années Super 8",
+        "critiquePress": 3.7,
+        "spectateur": 3.3,
+        "date": "14 décembre 2022",
+        "score": 9581.98720832187,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-303760/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//oVkcZO6aNatkRIhyAho3mb7ahLh.jpg"
+    },
+    {
+        "name": "Meurtre dans un jardin anglais",
+        "critiquePress": 3.6,
+        "spectateur": null,
+        "date": "15 février 1984",
+        "score": 9447.840000000002,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-241/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//ljeTWR2kowGXijMc8LMuy72ULM3.jpg"
+    },
+    {
+        "name": "Pacifiction - Tourment sur les îles",
+        "critiquePress": 4,
+        "spectateur": 2.8,
+        "date": "9 novembre 2022",
+        "score": 8599.633919999997,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-280669/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//kElJcT1oteDCyRzw0XNqrTZcCvA.jpg"
+    },
+    {
+        "name": "X",
+        "critiquePress": 3.9,
+        "spectateur": 2.9,
+        "date": "2 novembre 2022",
+        "score": 8301.65757464599,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-287667/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//woTQx9Q4b8aO13jR9dsj8C9JESy.jpg"
+    },
+    {
+        "name": "Poet",
+        "critiquePress": 3.9,
+        "spectateur": 2.9,
+        "date": "14 décembre 2022",
+        "score": 8301.65757464599,
+        "language": "kk",
+        "url": "https://www.allocine.fr/seance/film-299598/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//eipD4CTum0YnYZsyaVXwEDDXMld.jpg"
+    },
+    {
+        "name": "Cow",
+        "critiquePress": 3.7,
+        "spectateur": 3.2,
+        "date": "30 novembre 2022",
+        "score": 8215.533652786014,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-292777/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//faszRX0wSzGqjIzDXt79H9ibsXa.jpg"
+    },
+    {
+        "name": "Mourir à Ibiza (Un film en trois étés)",
+        "critiquePress": 3.6,
+        "spectateur": 3.4,
+        "date": "7 décembre 2022",
+        "score": 8173.101517875363,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-306208/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//pwSdK3a5IdMmGXrljluQRjw7zGf.jpg"
+    },
+    {
+        "name": "Santa &amp; Cie",
+        "critiquePress": 3.6,
+        "spectateur": 3.4,
+        "date": "6 décembre 2017",
+        "score": 8173.101517875363,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-253125/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//mrz2fC1F9H8kbdKu2vOwyeMAzvg.jpg"
+    },
+    {
+        "name": "Niko, le petit renne",
+        "critiquePress": 3.8,
+        "spectateur": 3,
+        "date": "17 décembre 2008",
+        "score": 7770.984718272143,
+        "language": "fi",
+        "url": "https://www.allocine.fr/seance/film-137572/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//vEv1FpWQntCYeLW8QUwnE0uFQXa.jpg"
+    },
+    {
+        "name": "Jacky Caillou",
+        "critiquePress": 3.7,
+        "spectateur": 3.1,
+        "date": "2 novembre 2022",
+        "score": 7009.618088340531,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-280207/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//aHuPfNYAdzH2mPBjwHR9nUSS3eC.jpg"
+    },
+    {
+        "name": "Close",
+        "critiquePress": 3.4,
+        "spectateur": 4.2,
+        "date": "1 novembre 2022",
+        "score": 6457.759224000288,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-294372/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//j7ReE0UZ9sgtfLvzszMgQw8Mxb2.jpg"
+    },
+    {
+        "name": "Novembre",
+        "critiquePress": 3.5,
+        "spectateur": 4.1,
+        "date": "5 octobre 2022",
+        "score": 6272.639999999997,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-290915/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//muXJAhYO0RWq0F0KWXqEswpNckr.jpg"
+    },
+    {
+        "name": "Corsage",
+        "critiquePress": 3.6,
+        "spectateur": 3.2,
+        "date": "14 décembre 2022",
+        "score": 6035.902275516253,
+        "language": "de",
+        "url": "https://www.allocine.fr/seance/film-287317/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//dWvkUmd6EfYKJvpaw3kqwBLQ8jg.jpg"
+    },
+    {
+        "name": "Stella est amoureuse",
+        "critiquePress": 3.7,
+        "spectateur": 3,
+        "date": "14 décembre 2022",
+        "score": 5949.660174927115,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-287283/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//pjXEy2DiUjrZwIkRSPbo6dVeuRx.jpg"
+    },
+    {
+        "name": "La (Très) grande évasion",
+        "critiquePress": 3.4,
+        "spectateur": 4.1,
+        "date": "7 décembre 2022",
+        "score": 5426.311570166904,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-279676/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//1yPOQU51dvYK71agbxvtQt6xOps.jpg"
+    },
+    {
+        "name": "Quatorze Juillet",
+        "critiquePress": 3,
+        "spectateur": null,
+        "date": "13 janvier 1933",
+        "score": 4624.613329729838,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-4626/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//rCBbpmbI84seozuddkh8GZ3xTgu.jpg"
+    },
+    {
+        "name": "Les Aventures de Gigi la Loi",
+        "critiquePress": 3.8,
+        "spectateur": 2.7,
+        "date": "26 octobre 2022",
+        "score": 4588.68876629252,
+        "language": "it",
+        "url": "https://www.allocine.fr/seance/film-306161/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//vC8lBn1I0oUjd6iM3HFNdezcQcA.jpg"
+    },
+    {
+        "name": "Bowling Saturne",
+        "critiquePress": 3.7,
+        "spectateur": 2.8,
+        "date": "26 octobre 2022",
+        "score": 4213.8206208,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-286639/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//uk8Dpv85xJqanA9Kg71uifLl3BY.jpg"
+    },
+    {
+        "name": "La Reine des neiges",
+        "critiquePress": 3.5,
+        "spectateur": 3.9,
+        "date": "20 novembre 2013",
+        "score": 4199.039999999999,
+        "language": "ru",
+        "url": "https://www.allocine.fr/seance/film-203691/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//siQpJAT2IQjN218hxJXvrHePtNS.jpg"
+    },
+    {
+        "name": "Poulet Frites",
+        "critiquePress": 3.5,
+        "spectateur": 3.9,
+        "date": "28 septembre 2022",
+        "score": 4199.039999999999,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-296560/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//8SZbbZnFYylGiYDrEbiRNDqf97a.jpg"
+    },
+    {
+        "name": "Simone, le voyage du siècle",
+        "critiquePress": 3.1,
+        "spectateur": 4.2,
+        "date": "12 octobre 2022",
+        "score": 4069.0753528688783,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-271339/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//lSM6anrKEF8qRyaqP6oZHwMGP8J.jpg"
+    },
+    {
+        "name": "Couleurs de l'incendie",
+        "critiquePress": 3.3,
+        "spectateur": 4,
+        "date": "9 novembre 2022",
+        "score": 3862.731048958172,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-276718/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//d0gdCYwLIWfFzYGTNxNIkk6wd6F.jpg"
+    },
+    {
+        "name": "She Said",
+        "critiquePress": 3.5,
+        "spectateur": 3.8,
+        "date": "23 novembre 2022",
+        "score": 3317.7599999999984,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-264394/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//b2g0XtMU4zH2URSkx62n1aWTXTV.jpg"
+    },
+    {
+        "name": "Mauvaises Filles",
+        "critiquePress": 3.5,
+        "spectateur": 3.8,
+        "date": "23 novembre 2022",
+        "score": 3317.7599999999984,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-305232/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//mlN1cSAja7AF8fLxVA1CFuxFwOO.jpg"
+    },
+    {
+        "name": "Opération Père Noël",
+        "critiquePress": 3.7,
+        "spectateur": 2.6,
+        "date": "23 novembre 2022",
+        "score": 2909.059654754521,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-303454/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//z8Oqs8JCJvgJju450xygfYu5xFb.jpg"
+    },
+    {
+        "name": "Un hérisson dans la neige",
+        "critiquePress": 3.7,
+        "spectateur": 2.6,
+        "date": "9 novembre 2022",
+        "score": 2909.059654754521,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-305606/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//oJVCPeGREAu7YcESpgj2UumJ42b.jpg"
+    },
+    {
+        "name": "Le Chat Potté 2 : la dernière quête",
+        "critiquePress": 3,
+        "spectateur": 4.1,
+        "date": "7 décembre 2022",
+        "score": 2902.1270089843492,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-228395/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//1NqwE6LP9IEdOZ57NCT51ftHtWT.jpg"
+    },
+    {
+        "name": "Sans filtre",
+        "critiquePress": 3.2,
+        "spectateur": 3.9,
+        "date": "28 septembre 2022",
+        "score": 2682.623233562778,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-256851/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//fgy78BLl0gk8OzTWHZyGrSlIEON.jpg"
+    },
+    {
+        "name": "Mon pays imaginaire",
+        "critiquePress": 3.5,
+        "spectateur": 3.7,
+        "date": "26 octobre 2022",
+        "score": 2540.160000000001,
+        "language": "es",
+        "url": "https://www.allocine.fr/seance/film-289233/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//aKUfSLK1w5qCmC3lmHOP7VEVPGm.jpg"
+    },
+    {
+        "name": "Pénélope, mon amour",
+        "critiquePress": 3.5,
+        "spectateur": 3.7,
+        "date": "12 octobre 2022",
+        "score": 2540.160000000001,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-300173/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//5wOmpKeIAvHluMfGAJzUwbvXoo1.jpg"
+    },
+    {
+        "name": "Moonage Daydream",
+        "critiquePress": 3.1,
+        "spectateur": 3.9,
+        "date": "21 septembre 2022",
+        "score": 2288.854885988743,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-298698/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//iaVAERKy9RSvgMPqvArAh4GuRsn.jpg"
+    },
+    {
+        "name": "Charlotte",
+        "critiquePress": 3.4,
+        "spectateur": 3.7,
+        "date": "9 novembre 2022",
+        "score": 2197.431958166765,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-277733/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//hTLFNVxi2P5YeULAd5Mb2XbW9i4.jpg"
+    },
+    {
+        "name": "Service public",
+        "critiquePress": 3.5,
+        "spectateur": 3.6,
+        "date": "23 novembre 2022",
+        "score": 1866.2400000000005,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-309867/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//mGTMUABSs3qSV76EgfEidHfbRNt.jpg"
+    },
+    {
+        "name": "Hallelujah, les mots de Leonard Cohen",
+        "critiquePress": 3.1,
+        "spectateur": 3.8,
+        "date": "19 octobre 2022",
+        "score": 1808.477934608389,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-294808/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//jvAjJvpu4EYuByjebjKl3QntQ0Z.jpg"
+    },
+    {
+        "name": "Trois nuits par semaine",
+        "critiquePress": 3.1,
+        "spectateur": 3.8,
+        "date": "9 novembre 2022",
+        "score": 1808.477934608389,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-285271/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//tGd8Az1CMwdTg8BnrH9J2kdNZfL.jpg"
+    },
+    {
+        "name": "Les Femmes du square",
+        "critiquePress": 3.3,
+        "spectateur": 3.6,
+        "date": "16 novembre 2022",
+        "score": 1390.5831776249422,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-287059/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//7F3b2zqT429wudtALxncVerCu4e.jpg"
+    },
+    {
+        "name": "Driver",
+        "critiquePress": 3.5,
+        "spectateur": null,
+        "date": "23 août 1978",
+        "score": 1296,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-1844/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//eaPcjoGR3ZzHTNTeHGqmihOyLN7.jpg"
+    },
+    {
+        "name": "Cadavres exquis",
+        "critiquePress": 3.5,
+        "spectateur": null,
+        "date": "26 mai 1976",
+        "score": 1296,
+        "language": "it",
+        "url": "https://www.allocine.fr/seance/film-12486/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//ue4OgtZ9pUvthCNH9h3vK2xeNqL.jpg"
+    },
+    {
+        "name": "Pingu",
+        "critiquePress": 3.5,
+        "spectateur": null,
+        "date": "8 septembre 2021",
+        "score": 1296,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-293568/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//dXbpNrPDZDMEbujFoOxmMNQVMHa.jpg"
+    },
+    {
+        "name": "Tous résistants dans l’âme",
+        "critiquePress": 3.5,
+        "spectateur": null,
+        "date": "16 novembre 2022",
+        "score": 1296,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-309444/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//75iRYF94qWnaGaw78RWzpHTvQiz.jpg"
+    },
+    {
+        "name": "Mes rendez-vous avec Leo",
+        "critiquePress": 3.2,
+        "spectateur": 3.6,
+        "date": "30 novembre 2022",
+        "score": 1192.2769926945687,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-287509/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//5wQydIQYho2wz1suPOoPoNgMzCm.jpg"
+    },
+    {
+        "name": "Vive l'amour",
+        "critiquePress": 3.4,
+        "spectateur": null,
+        "date": "5 avril 1995",
+        "score": 1121.1387541667164,
+        "language": "zh",
+        "url": "https://www.allocine.fr/seance/film-11764/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//kzT7WvRaolavasYSWnaefGUx8Wi.jpg"
+    },
+    {
+        "name": "Du crépitement sous les néons",
+        "critiquePress": 2.8,
+        "spectateur": 3.8,
+        "date": "16 novembre 2022",
+        "score": 1087.163596799999,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-295440/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//swHJrD76psDc45wt72slMac8UUo.jpg"
+    },
+    {
+        "name": "Juste une nuit",
+        "critiquePress": 3.4,
+        "spectateur": 3.4,
+        "date": "16 novembre 2022",
+        "score": 969.870452233408,
+        "language": "fa",
+        "url": "https://www.allocine.fr/seance/film-299437/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//1Haa21CKzKWDzOOgwTfiy3Uk6h6.jpg"
+    },
+    {
+        "name": "The Woman King",
+        "critiquePress": 2.7,
+        "spectateur": 3.8,
+        "date": "28 septembre 2022",
+        "score": 906.4076575392631,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-263074/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//lQMJHnHxUyj8kJlC2YOKNuzuwMP.jpg"
+    },
+    {
+        "name": "In Viaggio",
+        "critiquePress": 3.3,
+        "spectateur": 3.4,
+        "date": "14 décembre 2022",
+        "score": 835.3891735937611,
+        "language": "it",
+        "url": "https://www.allocine.fr/seance/film-306621/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//e8n5Njg3Zhemx7YI96VBQMa5k7o.jpg"
+    },
+    {
+        "name": "Pourquoi pas!",
+        "critiquePress": 3.2,
+        "spectateur": null,
+        "date": "21 décembre 1977",
+        "score": 827.9701338156724,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-1897/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//3vzrMdpdQRdv6Kto0qXmHfh0Mu7.jpg"
+    },
+    {
+        "name": "Bones and All",
+        "critiquePress": 3.1,
+        "spectateur": 3.4,
+        "date": "23 novembre 2022",
+        "score": 611.1215695363277,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-273342/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//dBQuk2LkHjrDsSjueirPQg96GCc.jpg"
+    },
+    {
+        "name": "Fièvre Méditerranéenne",
+        "critiquePress": 3.4,
+        "spectateur": 3.1,
+        "date": "14 décembre 2022",
+        "score": 611.1215695363277,
+        "language": "ar",
+        "url": "https://www.allocine.fr/seance/film-303881/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//vGBHyERjr5Zs311PxbTUR2AEqO8.jpg"
+    },
+    {
+        "name": "Le Grinch",
+        "critiquePress": 3.1,
+        "spectateur": 3.4,
+        "date": "28 novembre 2018",
+        "score": 611.1215695363277,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-218476/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//stAu0oF6dYDhV5ssbmFUYkQPtCP.jpg"
+    },
+    {
+        "name": "Mon héroïne",
+        "critiquePress": 3.1,
+        "spectateur": 3.3,
+        "date": "14 décembre 2022",
+        "score": 526.3840565146043,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-294000/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//4TbuDIndoOJCJRMtHiGCVdzvXbu.jpg"
+    },
+    {
+        "name": "Nos frangins",
+        "critiquePress": 3.4,
+        "spectateur": 3,
+        "date": "7 décembre 2022",
+        "score": 518.7109509371323,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-297464/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//eRmar7AZrYm2OJWTzPLSSY8axIu.jpg"
+    },
+    {
+        "name": "Degas : une passion pour la perfection",
+        "critiquePress": 3.3,
+        "spectateur": 3,
+        "date": "28 novembre 2018",
+        "score": 446.78700298534443,
+        "url": "https://www.allocine.fr/seance/film-265631/pres-de-115755/"
+    },
+    {
+        "name": "Black Panther: Wakanda Forever",
+        "critiquePress": 2.9,
+        "spectateur": 3.4,
+        "date": "9 novembre 2022",
+        "score": 437.833646197663,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-263242/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//ps2oKfhY6DL3alynlSqY97gHSsg.jpg"
+    },
+    {
+        "name": "Violent Night",
+        "critiquePress": 2.9,
+        "spectateur": 3.4,
+        "date": "30 novembre 2022",
+        "score": 437.833646197663,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-281688/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//nhXjUvOvq7rJlvJFCrZMUUJ9Mn0.jpg"
+    },
+    {
+        "name": "Rimini",
+        "critiquePress": 2.9,
+        "spectateur": 3.4,
+        "date": "23 novembre 2022",
+        "score": 437.833646197663,
+        "language": "de",
+        "url": "https://www.allocine.fr/seance/film-262863/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//2QYFVzsu5dXZuttR2Gk40SpwTEe.jpg"
+    },
+    {
+        "name": "Mascarade",
+        "critiquePress": 2.6,
+        "spectateur": 3.6,
+        "date": "1 novembre 2022",
+        "score": 422.17645783285553,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-289268/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//eZx7SUnQetww3ePIlvTUDYuZMo9.jpg"
+    },
+    {
+        "name": "Kanun, la loi du sang",
+        "critiquePress": 3,
+        "spectateur": 3.2,
+        "date": "7 décembre 2022",
+        "score": 383.0722770601932,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-289126/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//3gF5CSscoqBPgGrG8PN5Rwuwbvc.jpg"
+    },
+    {
+        "name": "Le Menu",
+        "critiquePress": 2.7,
+        "spectateur": 3.5,
+        "date": "23 novembre 2022",
+        "score": 354.06549122627484,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-271676/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//v31MsWhF9WFh7Qooq6xSBbmJxoG.jpg"
+    },
+    {
+        "name": "La Souris du Père Noël",
+        "critiquePress": 2.7,
+        "spectateur": null,
+        "date": "10 décembre 1997",
+        "score": 354.06549122627484,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-27523/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//iKJiUZHANl5XloAYAoFWQYgJp9H.jpg"
+    },
+    {
+        "name": "Maestro(s)",
+        "critiquePress": 3,
+        "spectateur": 3.1,
+        "date": "7 décembre 2022",
+        "score": 326.84308480829316,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-291285/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//vXpdVFtxDVXKWLCtxrwHVTU2Frs.jpg"
+    },
+    {
+        "name": "Samouraï Academy",
+        "critiquePress": 3.1,
+        "spectateur": 3,
+        "date": "12 octobre 2022",
+        "score": 326.84308480829316,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-242476/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//wMDUDwAArpfGdtTTZ25SfwngGwt.jpg"
+    },
+    {
+        "name": "Coma",
+        "critiquePress": 3.4,
+        "spectateur": 2.7,
+        "date": "16 novembre 2022",
+        "score": 306.29362941886745,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-300258/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//ctQsIs2Ti99GCqotsgcUCQQPT1n.jpg"
+    },
+    {
+        "name": "Vive le vent d'hiver",
+        "critiquePress": 2.6,
+        "spectateur": null,
+        "date": "23 novembre 2022",
+        "score": 293.1780957172607,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-307788/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//x6nE1OvDlVpjsAUKufko8KCaJWi.jpg"
+    },
+    {
+        "name": "Fumer fait tousser",
+        "critiquePress": 3.2,
+        "spectateur": 2.8,
+        "date": "30 novembre 2022",
+        "score": 271.3092534487194,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-296128/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//yAQB8GxlZujym9Fo4B7hG7j4Fib.jpg"
+    },
+    {
+        "name": "Le Monde d'après",
+        "critiquePress": 1.8,
+        "spectateur": 4.2,
+        "date": "26 octobre 2022",
+        "score": 268.5652318634856,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-302630/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//iCPVeoFYhyfLeaPblaZSHNSzHak.jpg"
+    },
+    {
+        "name": "Noël avec les frères Koalas",
+        "critiquePress": 3.3,
+        "spectateur": 2.7,
+        "date": "16 novembre 2022",
+        "score": 263.8232573928162,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-302450/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//5FnCFlouRhbgCLCfXPmHgNVhtU4.jpg"
+    },
+    {
+        "name": "Julius et le Père Noël",
+        "critiquePress": 3.3,
+        "spectateur": 2.7,
+        "date": "23 novembre 2016",
+        "score": 263.8232573928162,
+        "language": "da",
+        "url": "https://www.allocine.fr/seance/film-249794/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//5nlpxvEbFghORtYWXT1JB8GoHNw.jpg"
+    },
+    {
+        "name": "Despedida",
+        "critiquePress": 3,
+        "spectateur": 2.9,
+        "date": "14 décembre 2022",
+        "score": 234.16437365266378,
+        "language": "pt",
+        "url": "https://www.allocine.fr/seance/film-271934/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//2s0ZfqK7H1IWHr6kz96Vu4GOavW.jpg"
+    },
+    {
+        "name": "Le Torrent",
+        "critiquePress": 2.7,
+        "spectateur": 3.2,
+        "date": "30 novembre 2022",
+        "score": 226.20034888127358,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-286354/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//s81MaE37UAs6UmEEOSB5BJzDiw7.jpg"
+    },
+    {
+        "name": "Enzo le Croco",
+        "critiquePress": 2.6,
+        "spectateur": 3.2,
+        "date": "30 novembre 2022",
+        "score": 187.3014715608367,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-251352/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//irIS5Tn3TXjNi1R9BpWvGAN4CZ1.jpg"
+    },
+    {
+        "name": "Le Royaume des étoiles",
+        "critiquePress": 2.8,
+        "spectateur": 2.8,
+        "date": "7 décembre 2022",
+        "score": 139.15694039039988,
+        "language": "de",
+        "url": "https://www.allocine.fr/seance/film-285618/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//bkp1oHMvDwDTlbRhCcqAK0A7JNd.jpg"
+    },
+    {
+        "name": "Samhain",
+        "critiquePress": 3.2,
+        "spectateur": 2.4,
+        "date": "7 décembre 2022",
+        "score": 125.52512374708414,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-293141/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//sUw081I0k5JWL6NpTaDRjMpLKwr.jpg"
+    },
+    {
+        "name": "La Maison",
+        "critiquePress": 2.5,
+        "spectateur": 3,
+        "date": "16 novembre 2022",
+        "score": 111.48870604234777,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-298953/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//qEVaCeDjB4cLdkQ0tZegdPxMXg3.jpg"
+    },
+    {
+        "name": "Extra : Allan, Britney et le vaisseau spatial",
+        "critiquePress": 2.1,
+        "spectateur": null,
+        "date": "19 octobre 2022",
+        "score": 100.77695999999997,
+        "language": "da",
+        "url": "https://www.allocine.fr/seance/film-297773/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//qIPD5MdDyV8P5WrTCEooBQ0iQMv.jpg"
+    }
+]
