@@ -1,0 +1,19 @@
+<img
+  [src]="movie.poster"
+  class="poster"
+  ImagePreloadDirective
+  [default]="movie.name"
+/>
+<div class="notes">
+  <span class="critics"
+    >{{ criticsRating }} <img src="assets/icons/pen.svg"
+  /></span>
+  <span class="public"
+    >{{ publicRating }} <img src="assets/icons/people.svg"
+  /></span>
+  <span class="year">{{ year }} <img src="assets/icons/calendar.svg" /></span>
+</div>
+<div class="external-links">
+  <a [href]="movie.url">Séances</a>
+  <a [href]="movie.url">Infos</a>
+</div>

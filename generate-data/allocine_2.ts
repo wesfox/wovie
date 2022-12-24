@@ -140,6 +140,7 @@ const output = parisMovies.map((movie) => ({
   language: movie.language,
   url: `https://www.allocine.fr/seance/film-${movie.id}/pres-de-115755/`,
   poster: movie.poster,
+  sceances: movie.sceances,
 }));
 
 fs.writeFileSync('film_a_voir.json', JSON.stringify(output, undefined, 4));

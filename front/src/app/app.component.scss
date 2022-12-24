@@ -1,0 +1,37 @@
+$movie-box-width: 200px;
+$movie-box-max-number: 4;
+$movie-box-gap: 20px;
+
+:host {
+  background: linear-gradient(116.82deg, #d5c8b5 0%, #ece5da 100%);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  width: calc(100% - 80px);
+  padding: 40px;
+  align-items: flex-end;
+  h2 {
+    margin-left: 20px;
+    font-weight: 300;
+    font-size: 1em;
+    font-style: italic;
+  }
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 960px;
+  flex-direction: row;
+  justify-content: center;
+  app-movie-box {
+    display: flex;
+    padding: $movie-box-gap;
+  }
+}

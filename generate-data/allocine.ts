@@ -60,7 +60,7 @@ fs.writeFileSync(
 );
 
 fs.writeFileSync(
-  'all_movies_in_paris.json',
+  'build/movies.js',
   `/** @type {{
     name: string;
     url: string;
@@ -68,12 +68,5 @@ fs.writeFileSync(
     sceance: Map<string, string>;
   }} */
 
-  export const movieDatabase = ` +
-    JSON.stringify(
-      allOnAirMovies.filter((movie) =>
-        Object.keys(movie.sceances).includes('Paris'),
-      ),
-      undefined,
-      4,
-    ),
+  export const movieDatabase = ` + JSON.stringify(allOnAirMovies, undefined, 4),
 );
