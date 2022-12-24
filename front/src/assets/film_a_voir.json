@@ -1,10 +1,26 @@
 [
     {
+        "name": "La Vie est belle",
+        "critiquePress": 5,
+        "spectateur": 4.3,
+        "date": "10 décembre 1947",
+        "score": 2870729.8418161767,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-5762/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+        "sceances": {
+            "Lyon": 113315,
+            "Lyon 8e arrondissement": 113497,
+            "Paris": 115755,
+            "Paris 5e arrondissement": 115760
+        }
+    },
+    {
         "name": "Haute pègre",
         "critiquePress": 4.5,
         "spectateur": 4.2,
         "date": "2 juin 1933",
-        "score": 2584986.169403118,
+        "score": 2585128.7464528996,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-4/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//FBxuoLRD3Biyul14unT5m3PYNS.jpg",
@@ -23,7 +39,7 @@
         "critiquePress": 4.8,
         "spectateur": 4.1,
         "date": "25 avril 1938",
-        "score": 2556533.5790828555,
+        "score": 2556681.869564848,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-632/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//vEhBrK5Lcrjq1BR4FurSQyvsWUX.jpg",
@@ -46,7 +62,7 @@
         "critiquePress": 5,
         "spectateur": 4,
         "date": "19 mars 1948",
-        "score": 1676776.8401134235,
+        "score": 1676885.3690871438,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-3748/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//4RERYb1NIQrJHYY5e8nUlYM7t2z.jpg",
@@ -63,7 +79,7 @@
         "critiquePress": 4.5,
         "spectateur": 4.2,
         "date": "4 juin 1947",
-        "score": 1409619.504846028,
+        "score": 1409709.95355594,
         "url": "https://www.allocine.fr/seance/film-1646/pres-de-115755/",
         "sceances": {
             "Paris": 115755,
@@ -79,7 +95,7 @@
         "critiquePress": 5,
         "spectateur": 4,
         "date": "15 octobre 1963",
-        "score": 744400.9077021793,
+        "score": 744459.995680713,
         "language": "fr",
         "url": "https://www.allocine.fr/seance/film-735/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//9iHsReoh2VuHihDmNXgLXCi18rR.jpg",
@@ -97,19 +113,18 @@
         }
     },
     {
-        "name": "Autant en emporte le vent",
-        "critiquePress": 4.4,
+        "name": "Rebecca",
+        "critiquePress": 4.3,
         "spectateur": 4,
-        "date": "20 mai 1950",
-        "score": 740714.6494934349,
+        "date": "22 mai 1947",
+        "score": 736536.097140251,
         "language": "en",
-        "url": "https://www.allocine.fr/seance/film-27782/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//7K5hvvoM2Of1fgEgUSveNE6DNe7.jpg",
+        "url": "https://www.allocine.fr/seance/film-3984/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//tneFytRScAd4KRxhLjCBS7jdmnV.jpg",
         "sceances": {
             "Nantes": 101187,
-            "Paris 6e arrondissement": 115761,
-            "Laval": 104893,
-            "Paris": 115755
+            "Paris": 115755,
+            "Paris 5e arrondissement": 115760
         }
     },
     {
@@ -154,7 +169,7 @@
         "critiquePress": 4.8,
         "spectateur": 3.8,
         "date": "5 novembre 1958",
-        "score": 508538.64718245144,
+        "score": 508576.3135552795,
         "language": "fr",
         "url": "https://www.allocine.fr/seance/film-734/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//5WxZp3XpCnK1EQ6D8XASbpCkrzO.jpg",
@@ -173,7 +188,7 @@
         "critiquePress": 5,
         "spectateur": 3.9,
         "date": "22 février 1967",
-        "score": 494195.13336072286,
+        "score": 494236.3492164717,
         "language": "fr",
         "url": "https://www.allocine.fr/seance/film-63944/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//tPEDn3u2q8q82kREjiGKmfA7rPm.jpg",
@@ -198,18 +213,17 @@
         "url": "https://www.allocine.fr/seance/film-27633/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
         "sceances": {
-            "Paris": 115755,
             "Valence": 93989,
             "L' Isle-Jourdain": 96570,
             "Clamecy": 107361,
-            "Orthez": 111322,
             "Lyon": 113315,
             "Montreuil": 121588,
             "Blaye": 96938,
-            "Vaulx-en-Velin": 113446,
             "Lyon 8e arrondissement": 113497,
-            "Paris 5e arrondissement": 115760,
-            "Ivry-sur-Seine": 121627
+            "Paris": 115755,
+            "Ivry-sur-Seine": 121627,
+            "Orthez": 111322,
+            "Paris 5e arrondissement": 115760
         }
     },
     {
@@ -217,15 +231,17 @@
         "critiquePress": 5,
         "spectateur": 3.8,
         "date": "7 novembre 1963",
-        "score": 474684.4977098283,
+        "score": 474722.1933503796,
         "language": "it",
         "url": "https://www.allocine.fr/seance/film-4300/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//zR9uj0dtm5osrrpM7zwO5ndAtbh.jpg",
         "sceances": {
+            "Lamastre": 85557,
             "Aix-en-Provence": 87860,
             "Bordeaux": 96943,
             "Montpellier": 97612,
             "Strasbourg": 112664,
+            "Vernoux-en-Vivarais": 85766,
             "Saint-Denis": 121600
         }
     },
@@ -234,7 +250,7 @@
         "critiquePress": 3.9,
         "spectateur": 4.4,
         "date": "25 avril 1955",
-        "score": 469025.9253310836,
+        "score": 469059.06960626843,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-983/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//qitnZcLP7C9DLRuPpmvZ7GiEjJN.jpg",
@@ -250,7 +266,7 @@
         "critiquePress": 4.5,
         "spectateur": 4,
         "date": "10 janvier 1962",
-        "score": 462997.80435714615,
+        "score": 463033.63915081805,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-2736/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
@@ -264,7 +280,7 @@
         "critiquePress": 4.3,
         "spectateur": 4,
         "date": "1 février 1958",
-        "score": 431686.0919121229,
+        "score": 431717.74193004123,
         "language": "fr",
         "url": "https://www.allocine.fr/seance/film-27559/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//dLbf8LtbLQFM7KUaVgwkfKIPqXu.jpg",
@@ -286,7 +302,7 @@
         "critiquePress": 4.6,
         "spectateur": 4.1,
         "date": "27 septembre 1968",
-        "score": 428290.3978837497,
+        "score": 428326.9822258651,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-27442/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
@@ -330,6 +346,22 @@
             "Pantin": 121593,
             "Mâcon": 114387,
             "Paris 10e arrondissement": 115765
+        }
+    },
+    {
+        "name": "In the Mood for Love",
+        "critiquePress": 4.6,
+        "spectateur": 4.1,
+        "date": "8 novembre 2000",
+        "score": 325173.6575999997,
+        "language": "cn",
+        "url": "https://www.allocine.fr/seance/film-26389/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg",
+        "sceances": {
+            "Paris": 115755,
+            "Paris 6e arrondissement": 115761,
+            "Bray-sur-Seine": 116588,
+            "Paris 5e arrondissement": 115760
         }
     },
     {
@@ -431,6 +463,29 @@
         }
     },
     {
+        "name": "La La Land",
+        "critiquePress": 4.4,
+        "spectateur": 4.2,
+        "date": "25 janvier 2017",
+        "score": 296284.26240000024,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-229490/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg",
+        "sceances": {
+            "Paris": 115755,
+            "Échirolles": 98826,
+            "Joigny": 120939,
+            "Antibes": 85243,
+            "Pollestres": 112087,
+            "Lyon": 113315,
+            "Six-Fours-les-Plages": 119186,
+            "Toulouse": 96373,
+            "Grenoble": 98857,
+            "Paris 5e arrondissement": 115760,
+            "Paris 20e arrondissement": 115775
+        }
+    },
+    {
         "name": "Coco",
         "critiquePress": 4.1,
         "spectateur": 4.5,
@@ -444,7 +499,6 @@
             "Vern-sur-Seiche": 98137,
             "Saint-Nazaire": 101262,
             "Saint-Sébastien-sur-Loire": 101268,
-            "Lorient": 106369,
             "Hénin-Beaumont": 109910,
             "La Roche-sur-Yon": 119580,
             "Athies-sous-Laon": 83685,
@@ -453,7 +507,24 @@
             "Les Ponts-de-Cé": 102797,
             "Laval": 104893,
             "Vannes": 106508,
-            "Jaux": 108606
+            "Lorient": 106369
+        }
+    },
+    {
+        "name": "Mulholland Drive",
+        "critiquePress": 4.7,
+        "spectateur": 3.9,
+        "date": "21 novembre 2001",
+        "score": 245738.31839999996,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-28682/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//tVxGt7uffLVhIIcwuldXOMpFBPX.jpg",
+        "sceances": {
+            "Paris": 115755,
+            "Lyon": 113315,
+            "Paris 6e arrondissement": 115761,
+            "Lyon 8e arrondissement": 113497,
+            "Paris 5e arrondissement": 115760
         }
     },
     {
@@ -461,7 +532,7 @@
         "critiquePress": 4.1,
         "spectateur": null,
         "date": "23 février 1934",
-        "score": 234359.1480012988,
+        "score": 234372.17057888836,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-1389/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//h0T4FHsY51IccSGqGfaoYsd7hyx.jpg",
@@ -478,20 +549,6 @@
             "Guichen": 97913,
             "Toulouse": 96373,
             "Paris 5e arrondissement": 115760
-        }
-    },
-    {
-        "name": "Mulan",
-        "critiquePress": 4.2,
-        "spectateur": 4.1,
-        "date": "25 novembre 1998",
-        "score": 182910.18239999993,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-18793/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg",
-        "sceances": {
-            "Pontarlier": 93458,
-            "Tours": 98662
         }
     },
     {
@@ -557,24 +614,6 @@
             "Pornic": 101209,
             "Saint-Michel-Chef-Chef": 101260,
             "Hauteville-sur-Mer": 103162
-        }
-    },
-    {
-        "name": "Le Magicien d'Oz",
-        "critiquePress": 3.6,
-        "spectateur": 3.8,
-        "date": "26 juin 1946",
-        "score": 104713.92949166392,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-29738/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//bSA6DbAC5gdkaooU164lQUX6rVs.jpg",
-        "sceances": {
-            "Tulle": 90581,
-            "Lyon": 113315,
-            "Aiguillon": 102032,
-            "Lyon 8e arrondissement": 113497,
-            "Paris": 115755,
-            "Paris 5e arrondissement": 115760
         }
     },
     {
@@ -650,6 +689,21 @@
         }
     },
     {
+        "name": "Blade Runner",
+        "critiquePress": 3.8,
+        "spectateur": 4.2,
+        "date": "15 septembre 1982",
+        "score": 96745.88159999998,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-1975/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//6qrG8bUMAH9sMJOpNoXnAXJ6e6M.jpg",
+        "sceances": {
+            "Clermont-Ferrand": 110514,
+            "Paris": 115755,
+            "Paris 5e arrondissement": 115760
+        }
+    },
+    {
         "name": "Le Petit Nicolas - Qu’est-ce qu’on attend pour être heureux ?",
         "critiquePress": 3.9,
         "spectateur": 4,
@@ -675,11 +729,11 @@
             "Oissel": 116256,
             "Lacoste": 119302,
             "Asnières-sur-Seine": 121529,
-            "Caen": 88168,
             "La Rochelle": 89802,
             "Sarlat": 92934,
             "Douarnenez": 95198,
-            "Blagnac": 95890
+            "Blagnac": 95890,
+            "Combourg": 97872
         }
     },
     {
@@ -711,19 +765,6 @@
         }
     },
     {
-        "name": "Casque d'or",
-        "critiquePress": 3.9,
-        "spectateur": null,
-        "date": "13 mars 1952",
-        "score": 70018.6813199217,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-1103/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//raUSw3tZutyA6yzfFY0tJbZExZ4.jpg",
-        "sceances": {
-            "Toucy": 121151
-        }
-    },
-    {
         "name": "Yuku et la fleur de l’Himalaya",
         "critiquePress": 3.9,
         "spectateur": 3.9,
@@ -734,7 +775,6 @@
         "poster": "https://image.tmdb.org/t/p/w500//8bBmqaVxQFtdLJYB0CCcuwnhptc.jpg",
         "sceances": {
             "Hérouville-Saint-Clair": 88377,
-            "Marignana": 90750,
             "Valence": 93989,
             "Léognan": 97117,
             "Châteauroux": 98200,
@@ -753,7 +793,8 @@
             "Ibos": 111681,
             "Vic-en-Bigorre": 111914,
             "Saverne": 112619,
-            "Bretignolles-sur-Mer": 119430
+            "Bretignolles-sur-Mer": 119430,
+            "Fontenay-aux-Roses": 121541
         }
     },
     {
@@ -818,8 +859,8 @@
             "Nice": 85327,
             "Roquefort-les-Pins": 85344,
             "Aubenas": 85447,
-            "Saint-Girons": 86541,
-            "Castelnaudary": 87161
+            "Lamastre": 85557,
+            "Saint-Girons": 86541
         }
     },
     {
@@ -932,8 +973,8 @@
         "poster": "https://image.tmdb.org/t/p/w500//cAWB2CFtLg2cKYlQqbaHPEA2vBF.jpg",
         "sceances": {
             "Paris": 115755,
-            "Lyon": 113315,
             "Bordeaux": 96943,
+            "Lyon": 113315,
             "Paris 6e arrondissement": 115761,
             "Paris 12e arrondissement": 115767,
             "Nice": 85327,
@@ -951,6 +992,24 @@
             "Montigny-le-Bretonneux": 117252,
             "Poissy": 117276,
             "Vélizy-Villacoublay": 117329,
+            "Toulouse": 96373
+        }
+    },
+    {
+        "name": "Harka",
+        "critiquePress": 4,
+        "spectateur": 3.8,
+        "date": "2 novembre 2022",
+        "score": 67184.63999999997,
+        "language": "ar",
+        "url": "https://www.allocine.fr/seance/film-303882/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//kW3kSwXP1SeAHu2VN0BL2cg960R.jpg",
+        "sceances": {
+            "Moulins": 84679,
+            "Carcassonne": 87154,
+            "Bergerac": 92462,
+            "Cluses": 115505,
+            "Bors(Canton de Montmoreau-Saint-Cybard)": 89132,
             "Toulouse": 96373
         }
     },
@@ -974,36 +1033,17 @@
         }
     },
     {
-        "name": "Harka",
-        "critiquePress": 4,
-        "spectateur": 3.8,
-        "date": "2 novembre 2022",
-        "score": 67184.63999999997,
-        "language": "ar",
-        "url": "https://www.allocine.fr/seance/film-303882/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//kW3kSwXP1SeAHu2VN0BL2cg960R.jpg",
+        "name": "L'important c&#039;est d&#039;aimer",
+        "critiquePress": 4.7,
+        "spectateur": 3.4,
+        "date": "20 octobre 2009",
+        "score": 65611.84274072165,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-27564/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//NR9X3F4aCqvoYRx8h4pG30zVe.jpg",
         "sceances": {
-            "Moulins": 84679,
-            "Carcassonne": 87154,
-            "Bergerac": 92462,
-            "Cluses": 115505,
-            "Bors(Canton de Montmoreau-Saint-Cybard)": 89132,
-            "Toulouse": 96373
-        }
-    },
-    {
-        "name": "Tous en scène !",
-        "critiquePress": 3.9,
-        "spectateur": null,
-        "date": "3 février 1954",
-        "score": 63677.029633828955,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-584/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//5CvUmTWK46rShfgLmw7LuKF2fYL.jpg",
-        "sceances": {
-            "Paris": 115755,
-            "Paris 6e arrondissement": 115761,
-            "Paris 5e arrondissement": 115760
+            "Port-Saint-Louis-du-Rhône": 87937,
+            "Miramas": 87922
         }
     },
     {
@@ -1119,7 +1159,6 @@
             "Meythet": 115605,
             "Civray": 119774,
             "Lans-en-Vercors": 98874,
-            "La Ferté-Macé": 109144,
             "Cran-Gevrier": 115516
         }
     },
@@ -1180,17 +1219,16 @@
         "critiquePress": 4.7,
         "spectateur": 3,
         "date": "22 novembre 1965",
-        "score": 54975.029405885616,
+        "score": 54979.529794382644,
         "language": "fr",
         "url": "https://www.allocine.fr/seance/film-3228/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//dXoW8MNvpKn3dpFS1rhzwZAUdWF.jpg",
         "sceances": {
             "Avignon": 119251,
             "Antony": 121528,
-            "Montpellier": 97612,
             "Nantes": 101187,
             "Strasbourg": 112664,
-            "Montreuil": 121588
+            "Montpellier": 97612
         }
     },
     {
@@ -1213,7 +1251,6 @@
             "Huelgoat": 95232,
             "Lyon": 113315,
             "Paris 6e arrondissement": 115761,
-            "Abbeville": 117718,
             "Toulouse": 96373,
             "Paris 10e arrondissement": 115765
         }
@@ -1241,6 +1278,21 @@
             "Paris 5e arrondissement": 115760,
             "Puteaux": 121554,
             "Créteil": 121622
+        }
+    },
+    {
+        "name": "Minuscule - La vallée des fourmis perdues",
+        "critiquePress": 4.2,
+        "spectateur": 3.6,
+        "date": "29 janvier 2014",
+        "score": 54419.55840000002,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-197310/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//tk4kHoeXx0i7TROwiOrcSEtHOEl.jpg",
+        "sceances": {
+            "Paris": 115755,
+            "Paris 5e arrondissement": 115760,
+            "Paris 10e arrondissement": 115765
         }
     },
     {
@@ -1274,21 +1326,6 @@
             "Dammarie-les-Lys": 116689,
             "Toulon": 119194,
             "Levallois-Perret": 121546
-        }
-    },
-    {
-        "name": "Maman pleut des cordes",
-        "critiquePress": 3.9,
-        "spectateur": 3.8,
-        "date": "1 décembre 2021",
-        "score": 54419.55839999997,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-296304/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//2QytptH4bpawZOulSlIBzzhkGAW.jpg",
-        "sceances": {
-            "Clermont-Ferrand": 110514,
-            "Évreux": 94253,
-            "Saint-Denis": 121600
         }
     },
     {
@@ -1361,8 +1398,21 @@
         "sceances": {
             "Paris": 115755,
             "Paris 6e arrondissement": 115761,
-            "Paris 5e arrondissement": 115760,
-            "Paris 10e arrondissement": 115765
+            "Paris 10e arrondissement": 115765,
+            "Paris 5e arrondissement": 115760
+        }
+    },
+    {
+        "name": "Billy Elliot",
+        "critiquePress": 3.7,
+        "spectateur": 4,
+        "date": "20 décembre 2000",
+        "score": 51438.24000000003,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-11295/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//nOr5diUZxphmAD3li9aiILyI28F.jpg",
+        "sceances": {
+            "Chambéry": 115157
         }
     },
     {
@@ -1402,7 +1452,7 @@
         "critiquePress": 4,
         "spectateur": null,
         "date": "1 décembre 1964",
-        "score": 43557.30606295403,
+        "score": 43560.81969313495,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-45518/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg",
@@ -1457,6 +1507,40 @@
         "sceances": {
             "Montdidier": 118267,
             "Guingamp": 91798
+        }
+    },
+    {
+        "name": "Les Aristochats",
+        "critiquePress": 4.1,
+        "spectateur": null,
+        "date": "8 décembre 1971",
+        "score": 34107.04065796437,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-96/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//oHUlbdvoFIbcOwzxefowT9sMuiT.jpg",
+        "sceances": {
+            "Bressuire": 117413,
+            "Pantin": 121593,
+            "Torcy": 117003,
+            "Longjumeau": 121421,
+            "Bagnolet": 121571
+        }
+    },
+    {
+        "name": "Mary Poppins",
+        "critiquePress": 3.9,
+        "spectateur": null,
+        "date": "1 octobre 1965",
+        "score": 33589.61825422249,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-426/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//1DjJh0vwGwi6KugPZfDiliO25XP.jpg",
+        "sceances": {
+            "Clermont-Ferrand": 110514,
+            "Enghien-les-Bains": 121720,
+            "Tours": 98662,
+            "Paris": 115755,
+            "Paris 12e arrondissement": 115767
         }
     },
     {
@@ -1705,24 +1789,6 @@
         }
     },
     {
-        "name": "La Générale",
-        "critiquePress": 3.6,
-        "spectateur": 3.8,
-        "date": "23 novembre 2022",
-        "score": 24186.470399999995,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-286768/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//yoYbq6H4jMUMNSWx86wgVDnmnvc.jpg",
-        "sceances": {
-            "Val-de-Reuil": 94723,
-            "Châlons-en-Champagne": 103680,
-            "Tourcoing": 108198,
-            "Seynod": 115687,
-            "Paris": 115755,
-            "Aulnay-sous-Bois": 121570
-        }
-    },
-    {
         "name": "Lost Highway",
         "critiquePress": 3.9,
         "spectateur": null,
@@ -1766,33 +1832,17 @@
         "poster": "https://image.tmdb.org/t/p/w500//sqbfaoSFQ2l5c1kkxal4NeOrvX9.jpg",
         "sceances": {
             "Hérouville-Saint-Clair": 88377,
-            "Saint-Martin-d'Hères": 99084,
             "Cucuron": 119286,
             "Les Andelys": 94040,
             "Huelgoat": 95232,
             "Nîmes": 95640,
             "Montpellier": 97612,
             "Leers": 107940,
-            "Châlons-en-Champagne": 103680,
             "Paris": 115755,
             "Étampes": 121389,
             "Ivry-sur-Seine": 121627,
-            "Vitry-sur-Seine": 121656
-        }
-    },
-    {
-        "name": "Blue Velvet",
-        "critiquePress": 3.9,
-        "spectateur": null,
-        "date": "21 janvier 1987",
-        "score": 21257.64,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-2461/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//7hlgzJXLgyECS1mk3LSN3E72l5N.jpg",
-        "sceances": {
-            "Paris 6e arrondissement": 115761,
-            "Cholet": 102651,
-            "Paris": 115755
+            "Vitry-sur-Seine": 121656,
+            "Châlons-en-Champagne": 103680
         }
     },
     {
@@ -1833,7 +1883,7 @@
         "critiquePress": 3.8,
         "spectateur": null,
         "date": "28 avril 1971",
-        "score": 18774.427062227664,
+        "score": 18776.099300992795,
         "language": "fr",
         "url": "https://www.allocine.fr/seance/film-446/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//uIysfvyTIIdfI6MmfAIBLgFb3OB.jpg",
@@ -1947,6 +1997,23 @@
         }
     },
     {
+        "name": "Harry Potter et le Prince de sang mêlé",
+        "critiquePress": 3.6,
+        "spectateur": 3.7,
+        "date": "15 juillet 2009",
+        "score": 18517.766400000015,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-116305/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+        "sceances": {
+            "Lyon 3e arrondissement": 113492,
+            "Yvetot": 116525,
+            "La Roche-sur-Yon": 119580,
+            "Lyon": 113315,
+            "Jaux": 108606
+        }
+    },
+    {
         "name": "Les Harkis",
         "critiquePress": 3.9,
         "spectateur": 3.4,
@@ -1962,20 +2029,6 @@
             "Saint-Dié-des-Vosges": 120608,
             "Sainte-Livrade-sur-Lot": 102279,
             "Armentières": 107623
-        }
-    },
-    {
-        "name": "Seule autour du monde",
-        "critiquePress": 3.8,
-        "spectateur": null,
-        "date": "9 novembre 2022",
-        "score": 16796.159999999993,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-305318/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//EtImI8Cjt7VPHywTL9UktRHQYb.jpg",
-        "sceances": {
-            "Préfailles": 101214,
-            "Ile de Groix": 106318
         }
     },
     {
@@ -1995,18 +2048,45 @@
         }
     },
     {
+        "name": "Seule autour du monde",
+        "critiquePress": 3.8,
+        "spectateur": null,
+        "date": "9 novembre 2022",
+        "score": 16796.159999999993,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-305318/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//EtImI8Cjt7VPHywTL9UktRHQYb.jpg",
+        "sceances": {
+            "Préfailles": 101214,
+            "Ile de Groix": 106318
+        }
+    },
+    {
+        "name": "Le Dernier Round",
+        "critiquePress": 3.8,
+        "spectateur": null,
+        "date": "30 octobre 2019",
+        "score": 16796.159999999993,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-41565/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//w2J8bRzOJ5Uddu3tdWOiwYZe51X.jpg",
+        "sceances": {
+            "Saint-Quentin": 84346,
+            "Paris": 115755,
+            "Paris 5e arrondissement": 115760
+        }
+    },
+    {
         "name": "L'Ange rouge",
         "critiquePress": 3.7,
         "spectateur": null,
         "date": "16 avril 1969",
-        "score": 16364.470060216076,
+        "score": 16365.880882625697,
         "language": "ja",
         "url": "https://www.allocine.fr/seance/film-3211/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//ci0WIBCFoIrtN3q1alk8KUW52n2.jpg",
         "sceances": {
             "Ibos": 111681,
-            "Paris": 115755,
-            "Paris 5e arrondissement": 115760,
             "Palaiseau": 121453
         }
     },
@@ -2067,8 +2147,9 @@
             "Paris 6e arrondissement": 115761,
             "Montreuil": 121588,
             "La Ciotat": 87887,
-            "La Montagne": 101179,
-            "Paris": 115755
+            "La Ferté-Macé": 109144,
+            "Paris": 115755,
+            "La Montagne": 101179
         }
     },
     {
@@ -2076,7 +2157,7 @@
         "critiquePress": 3.2,
         "spectateur": 4.2,
         "date": "9 septembre 1959",
-        "score": 10643.174646925148,
+        "score": 10643.971852985158,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-26186/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
@@ -2102,10 +2183,10 @@
             "La Rochelle": 89802,
             "Besançon": 93056,
             "Blagnac": 95890,
-            "Montivilliers": 116219,
             "Challans": 119442,
             "Muret": 96213,
-            "Luçon": 119520
+            "Luçon": 119520,
+            "Montivilliers": 116219
         }
     },
     {
@@ -2118,10 +2199,8 @@
         "url": "https://www.allocine.fr/seance/film-10862/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
         "sceances": {
-            "Bressuire": 117413,
             "Guingamp": 91798,
             "Castanet-Tolosan": 95934,
-            "Jaux": 108606,
             "Torcy": 117003
         }
     },
@@ -2139,14 +2218,12 @@
             "Limoux": 87291,
             "Villefranche-de-Lauragais": 96400,
             "Villeneuve-d'Ascq": 107615,
-            "Lyon 1er arrondissement": 113490,
             "Mitry-Mory": 116830,
             "Enghien-les-Bains": 121720,
             "Saint-Gratien": 121813,
             "Carbonne": 95928,
             "Saint-Étienne": 100691,
             "Marmande": 102184,
-            "Lyon": 113315,
             "Massy": 121427,
             "Montreuil": 121588,
             "Gruissan": 87255,
@@ -2155,7 +2232,9 @@
             "Toulouse": 96373,
             "Le Mans": 114889,
             "Paris 5e arrondissement": 115760,
-            "Paris 10e arrondissement": 115765
+            "Paris 10e arrondissement": 115765,
+            "Saint-Denis": 121600,
+            "Lyon 1er arrondissement": 113490
         }
     },
     {
@@ -2294,27 +2373,6 @@
         }
     },
     {
-        "name": "X",
-        "critiquePress": 3.9,
-        "spectateur": 2.9,
-        "date": "2 novembre 2022",
-        "score": 8301.65757464599,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-287667/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//woTQx9Q4b8aO13jR9dsj8C9JESy.jpg",
-        "sceances": {
-            "Villeneuve-d'Ascq": 107615,
-            "Amiens": 117737,
-            "Montauban": 118983,
-            "Bourgueil": 98436,
-            "Château-Renard": 101419,
-            "La Ferté-Macé": 109144,
-            "Paris": 115755,
-            "Paris 10e arrondissement": 115765,
-            "Saint-Junien": 120148
-        }
-    },
-    {
         "name": "Cow",
         "critiquePress": 3.7,
         "spectateur": 3.2,
@@ -2329,6 +2387,7 @@
             "Martigues": 87915,
             "Marignana": 90750,
             "Saint-Nazaire": 101262,
+            "Cournon-d'Auvergne": 110525,
             "Veules-les-Roses": 116502,
             "Poitiers": 119890,
             "Enghien-les-Bains": 121720,
@@ -2343,8 +2402,7 @@
             "Gruissan": 87255,
             "Angoulême": 89095,
             "Saint-Georges-de-Didonne": 89835,
-            "Castanet-Tolosan": 95934,
-            "Tours": 98662
+            "Castanet-Tolosan": 95934
         }
     },
     {
@@ -2364,7 +2422,6 @@
             "Marseille 6e arrondissement": 87984,
             "Orléans": 101569,
             "Metz": 106969,
-            "Thionville": 107175,
             "Villeneuve-d'Ascq": 107615,
             "Biarritz": 111014,
             "Pau": 111337,
@@ -2376,8 +2433,9 @@
             "Saint-Étienne": 100691,
             "Argelès-sur-Mer": 111953,
             "Strasbourg": 112664,
-            "Lyon": 113315,
-            "Cachan": 121616
+            "Cachan": 121616,
+            "Argenteuil": 121667,
+            "Fosses": 121729
         }
     },
     {
@@ -2391,9 +2449,7 @@
         "poster": "https://image.tmdb.org/t/p/w500//mrz2fC1F9H8kbdKu2vOwyeMAzvg.jpg",
         "sceances": {
             "Sénas": 87964,
-            "Pantin": 121593,
-            "Tarascon-sur-Ariège": 86585,
-            "Paris": 115755
+            "Pantin": 121593
         }
     },
     {
@@ -2596,35 +2652,6 @@
         }
     },
     {
-        "name": "Grosse colère et fantaisies",
-        "critiquePress": 3.7,
-        "spectateur": 2.9,
-        "date": "12 octobre 2022",
-        "score": 5021.990384662391,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-304577/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//avFaDwD7w8P3k5ChtgNnYfLfRbw.jpg",
-        "sceances": {
-            "Saint-Quentin": 84346,
-            "Manosque": 84919,
-            "Beaune": 91065,
-            "Thiviers": 92965,
-            "Saint-Florent-le-Vieil": 102826,
-            "Pau": 111337,
-            "Veules-les-Roses": 116502,
-            "Asnières-sur-Seine": 121529,
-            "L' Haÿ-les-Roses": 121626,
-            "Agen": 102029,
-            "Thouarcé": 102894,
-            "Montigny-le-Bretonneux": 117252,
-            "Gisors": 94308,
-            "Lans-en-Vercors": 98874,
-            "Pouillon": 100075,
-            "Auray": 106256,
-            "Puteaux": 121554
-        }
-    },
-    {
         "name": "Les Aventures de Gigi la Loi",
         "critiquePress": 3.8,
         "spectateur": 2.7,
@@ -2702,10 +2729,10 @@
             "Agen": 102029,
             "Mulhouse": 113016,
             "Rouen": 116312,
-            "Montauban": 118983,
             "Toulouse": 96373,
             "Grenoble": 98857,
-            "Saint-Herblain": 101240
+            "Saint-Herblain": 101240,
+            "Nancy": 105434
         }
     },
     {
@@ -2724,6 +2751,7 @@
             "Avignon": 119251,
             "Montpellier": 97612,
             "Nantes": 101187,
+            "Lamastre": 85557,
             "Les Vans": 85762,
             "Marignana": 90750,
             "Nontron": 92730,
@@ -2737,8 +2765,7 @@
             "Orry-la-Ville": 108759,
             "Bort-l'Étang": 110446,
             "Sugères": 110824,
-            "Vernet-la-Varenne": 110849,
-            "Biarritz": 111014
+            "Vernet-la-Varenne": 110849
         }
     },
     {
@@ -2801,7 +2828,6 @@
             "Vayrac": 102018,
             "Guémené-sur-Scorff": 106322,
             "Saint-Genix-sur-Guiers": 115322,
-            "Paris 5e arrondissement": 115760,
             "Paris 10e arrondissement": 115765
         }
     },
@@ -2947,28 +2973,14 @@
         "url": "https://www.allocine.fr/seance/film-289233/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//aKUfSLK1w5qCmC3lmHOP7VEVPGm.jpg",
         "sceances": {
-            "Paris": 115755,
             "Prades": 112092,
             "Agen": 102029,
             "Grasse": 85308,
             "Canet-en-Roussillon": 111982,
-            "Paris 10e arrondissement": 115765,
             "Barjols": 119069,
-            "Lorgues": 119129
-        }
-    },
-    {
-        "name": "L'Origine du mal",
-        "critiquePress": 3.5,
-        "spectateur": 3.7,
-        "date": "5 octobre 2022",
-        "score": 2540.160000000001,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-285265/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//wRg2irZ6RAdmxOIIipGBnaKAaqU.jpg",
-        "sceances": {
-            "Montceau-les-Mines": 114423,
-            "Delle": 121250
+            "Lorgues": 119129,
+            "Paris": 115755,
+            "Paris 10e arrondissement": 115765
         }
     },
     {
@@ -3046,12 +3058,12 @@
             "LE MOULE": 121869,
             "Agen": 102029,
             "Saverne": 112619,
-            "Paris 6e arrondissement": 115761,
             "Saint-Dié-des-Vosges": 120608,
             "Toulouse": 96373,
             "Charbonnières-les-Bains": 113236,
             "Le Mans": 114889,
             "Chambéry": 115157,
+            "Paris 6e arrondissement": 115761,
             "Paris": 115755
         }
     },
@@ -3106,20 +3118,6 @@
             "Cluses": 115505,
             "Saint-Dié-des-Vosges": 120608,
             "Paris 10e arrondissement": 115765
-        }
-    },
-    {
-        "name": "Les Lendemains de veille",
-        "critiquePress": 2.8,
-        "spectateur": 4,
-        "date": "9 novembre 2022",
-        "score": 1698.6931199999992,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-294298/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//8eQzG7kbf4nCq5adVMafmGRQ6x5.jpg",
-        "sceances": {
-            "Saint-Astier": 92789,
-            "Toul": 105565
         }
     },
     {
@@ -3202,7 +3200,6 @@
         "poster": "https://image.tmdb.org/t/p/w500//7F3b2zqT429wudtALxncVerCu4e.jpg",
         "sceances": {
             "Le Mans": 114889,
-            "Annecy": 115435,
             "Saint-Genis-Pouilly": 83545,
             "La Ferté-Milon": 83963,
             "Mondeville": 88486,
@@ -3221,20 +3218,8 @@
             "Parthenay": 117565,
             "Neuville-de-Poitou": 119873,
             "Gérardmer": 120397,
-            "Marcoussis": 121424
-        }
-    },
-    {
-        "name": "Don't Worry Darling",
-        "critiquePress": 3.1,
-        "spectateur": 3.7,
-        "date": "21 septembre 2022",
-        "score": 1384.6159186845493,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-276064/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//60hrKYVq6Y1QRJeHNbYo3tHDcUd.jpg",
-        "sceances": {
-            "Toulouse": 96373
+            "Marcoussis": 121424,
+            "Bondy": 121574
         }
     },
     {
@@ -3279,12 +3264,12 @@
         "url": "https://www.allocine.fr/seance/film-240250/pres-de-115755/",
         "sceances": {
             "Saint-Gaudens": 96301,
-            "Meschers-sur-Gironde": 89732,
             "La Rochelle": 89802,
             "Blagnac": 95890,
             "Paray-le-Monial": 114459,
             "Sainte-Geneviève-des-Bois": 121473,
-            "Tours": 98662
+            "Tours": 98662,
+            "Meschers-sur-Gironde": 89732
         }
     },
     {
@@ -3373,10 +3358,10 @@
             "Saint-Astier": 92789,
             "Baume-les-Dames": 93047,
             "Barjac": 95482,
+            "Uzès": 95785,
             "Cazères-sur-Garonne": 95956,
             "Villefranche-de-Lauragais": 96400,
-            "Plaisance": 96729,
-            "Vic-Fezensac": 96872
+            "Plaisance": 96729
         }
     },
     {
@@ -3391,16 +3376,16 @@
         "sceances": {
             "Mondeville": 88486,
             "Arcachon": 96889,
-            "Libourne": 97122,
             "La Teste-de-Buch": 97402,
             "Saint-Lô": 103430,
-            "Bergerac": 92462,
             "Nantes": 101187,
             "Pollestres": 112087,
             "Lyon": 113315,
             "Vélizy-Villacoublay": 117329,
             "Jaux": 108606,
-            "Lyon 2e arrondissement": 113491
+            "Lyon 2e arrondissement": 113491,
+            "Libourne": 97122,
+            "Bergerac": 92462
         }
     },
     {
@@ -3467,7 +3452,6 @@
             "Buis-les-Baronnies": 93694,
             "Saint-Florent-le-Vieil": 102826,
             "Questembert": 106432,
-            "Lyon 1er arrondissement": 113490,
             "Bourg-en-Bresse": 83254,
             "Valbonne": 85391,
             "Vitrolles": 87976,
@@ -3475,13 +3459,14 @@
             "Montpellier": 97612,
             "Blois": 100199,
             "Nantes": 101187,
-            "Lyon": 113315,
             "Verdun-sur-Garonne": 119052,
             "Massy": 121427,
             "Le Teil": 85747,
             "Falaise": 88308,
             "Angoulême": 89095,
-            "Saint-Herblain": 101240
+            "Saint-Herblain": 101240,
+            "Figeac": 101790,
+            "Saint-Jean-Pied-de-Port": 111377
         }
     },
     {
@@ -3643,24 +3628,6 @@
         }
     },
     {
-        "name": "Le Pôle Express",
-        "critiquePress": 3.2,
-        "spectateur": 3.5,
-        "date": "1 décembre 2004",
-        "score": 827.9701338156724,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-29144/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
-        "sceances": {
-            "Nice": 85327,
-            "Martigues": 87915,
-            "Valence": 93989,
-            "Pontarlier": 93458,
-            "Sainte-Geneviève-des-Bois": 121473,
-            "Halluin": 107880
-        }
-    },
-    {
         "name": "Pourquoi pas!",
         "critiquePress": 3.2,
         "spectateur": null,
@@ -3675,6 +3642,43 @@
             "Nantes": 101187,
             "Toulouse": 96373,
             "Paris 5e arrondissement": 115760
+        }
+    },
+    {
+        "name": "Le Pôle Express",
+        "critiquePress": 3.2,
+        "spectateur": 3.5,
+        "date": "1 décembre 2004",
+        "score": 827.9701338156724,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-29144/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
+        "sceances": {
+            "Nice": 85327,
+            "Martigues": 87915,
+            "Valence": 93989,
+            "Pontarlier": 93458,
+            "Halluin": 107880,
+            "Sainte-Geneviève-des-Bois": 121473
+        }
+    },
+    {
+        "name": "Krypto et les Super-Animaux",
+        "critiquePress": 3.4,
+        "spectateur": 3.2,
+        "date": "27 juillet 2022",
+        "score": 716.2572564146237,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-266572/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
+        "sceances": {
+            "Arcachon": 96889,
+            "Libourne": 97122,
+            "La Teste-de-Buch": 97402,
+            "Bergerac": 92462,
+            "Nantes": 101187,
+            "Vélizy-Villacoublay": 117329,
+            "Limoges": 120079
         }
     },
     {
@@ -3707,6 +3711,23 @@
         }
     },
     {
+        "name": "Variety",
+        "critiquePress": 3.1,
+        "spectateur": null,
+        "date": "1 juin 2022",
+        "score": 706.4366932064023,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-44014/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//1xpZUJqYAXSUpzn97619a6KCWhc.jpg",
+        "sceances": {
+            "Villeurbanne": 113456,
+            "Paris 6e arrondissement": 115761,
+            "Rive-de-Gier": 100659,
+            "Paris": 115755,
+            "Ivry-sur-Seine": 121627
+        }
+    },
+    {
         "name": "Belle et Sébastien : Nouvelle génération",
         "critiquePress": 3.2,
         "spectateur": 3.3,
@@ -3728,7 +3749,6 @@
             "Limoges": 120079,
             "Ris-Orangis": 121463,
             "Enchastrayes": 84881,
-            "Carantec": 95175,
             "Bain-de-Bretagne": 97800,
             "Charlieu": 100527,
             "La Turballe": 101289,
@@ -3736,7 +3756,8 @@
             "Gravelines": 107874,
             "Lomme": 107956,
             "Orthez": 111322,
-            "GOURETTE": 111457
+            "GOURETTE": 111457,
+            "Cauterets": 111594
         }
     },
     {
@@ -3752,6 +3773,7 @@
             "Paris": 115755,
             "Montpellier": 97612,
             "Gex": 83370,
+            "Lamastre": 85557,
             "Aix-en-Provence": 87860,
             "Marseille": 87914,
             "Hérouville-Saint-Clair": 88377,
@@ -3768,8 +3790,7 @@
             "Paris 1er arrondissement": 115756,
             "Le Havre": 116123,
             "Avignon": 119251,
-            "Poitiers": 119890,
-            "Belfort": 121227
+            "Poitiers": 119890
         }
     },
     {
@@ -3817,8 +3838,7 @@
         "sceances": {
             "Mimizan": 100026,
             "MEUDON LA FORET": 121564,
-            "Jaux": 108606,
-            "Paris": 115755
+            "Jaux": 108606
         }
     },
     {
@@ -3912,14 +3932,14 @@
             "Gex": 83370,
             "La Ferté-Milon": 83963,
             "Gannat": 84607,
+            "Lamastre": 85557,
             "Thueyts": 85750,
             "Castelnaudary": 87161,
             "Fos-sur-Mer": 87898,
             "Martigues": 87915,
             "Marseille 16e arrondissement": 87994,
             "Hérouville-Saint-Clair": 88377,
-            "Fouras": 89671,
-            "Jonzac": 89699
+            "Fouras": 89671
         }
     },
     {
@@ -3935,24 +3955,10 @@
             "La Rochelle": 89802,
             "Blagnac": 95890,
             "Agen": 102029,
-            "Marmande": 102184,
             "Nérac": 102222,
             "Tours": 98662,
+            "Marmande": 102184,
             "Aiguillon": 102032
-        }
-    },
-    {
-        "name": "Arthur et la magie de Noël",
-        "critiquePress": 2.9,
-        "spectateur": null,
-        "date": "14 novembre 2018",
-        "score": 506.12147993574087,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-263851/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//nj2ZLyaCqgBtcZY5b91pIGWvYWA.jpg",
-        "sceances": {
-            "La Rochelle": 89802,
-            "Belleville": 113211
         }
     },
     {
@@ -3967,6 +3973,20 @@
             "Saint-Gratien": 121813,
             "Paray-le-Monial": 114459,
             "Seynod": 115687
+        }
+    },
+    {
+        "name": "Arthur et la magie de Noël",
+        "critiquePress": 2.9,
+        "spectateur": null,
+        "date": "14 novembre 2018",
+        "score": 506.12147993574087,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-263851/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//nj2ZLyaCqgBtcZY5b91pIGWvYWA.jpg",
+        "sceances": {
+            "La Rochelle": 89802,
+            "Belleville": 113211
         }
     },
     {
@@ -4216,9 +4236,8 @@
         "url": "https://www.allocine.fr/seance/film-27523/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//iKJiUZHANl5XloAYAoFWQYgJp9H.jpg",
         "sceances": {
-            "Paris": 115755,
             "Strasbourg": 112664,
-            "Chambéry": 115157,
+            "Paris": 115755,
             "Fos-sur-Mer": 87898,
             "Martigues": 87915,
             "Ruffec": 89371,
@@ -4226,7 +4245,6 @@
             "Auterive": 95854,
             "Léognan": 97117,
             "Orléans": 101569,
-            "Prayssac": 101913,
             "Veules-les-Roses": 116502,
             "Mitry-Mory": 116830,
             "Labruguière": 118656,
@@ -4234,9 +4252,11 @@
             "Antony": 121528,
             "Port-de-Bouc": 87936,
             "Périgueux": 92741,
-            "Douarnenez": 95198,
             "Montréjeau": 96208,
-            "Pessac": 97196
+            "Pessac": 97196,
+            "Montpellier": 97612,
+            "Boën": 100495,
+            "Dunkerque": 107786
         }
     },
     {
@@ -4309,11 +4329,11 @@
         "poster": "https://image.tmdb.org/t/p/w500//wMDUDwAArpfGdtTTZ25SfwngGwt.jpg",
         "sceances": {
             "Lyon": 113315,
-            "Paris": 115755,
             "Vitrolles": 87976,
             "Bordeaux": 96943,
             "Montpellier": 97612,
             "Nantes": 101187,
+            "Paris": 115755,
             "Nice": 85327,
             "Guilherand-Granges": 85530,
             "Les Vans": 85762,
@@ -4385,9 +4405,9 @@
             "Saint-Herblain": 101240,
             "Nancy": 105434,
             "Annecy": 115435,
+            "Chauny": 83829,
             "Saint-Quentin": 84346,
-            "Digne-les-Bains": 84878,
-            "Manosque": 84919
+            "Digne-les-Bains": 84878
         }
     },
     {
@@ -4498,20 +4518,6 @@
         }
     },
     {
-        "name": "Le Monde d'après",
-        "critiquePress": 1.8,
-        "spectateur": 4.2,
-        "date": "26 octobre 2022",
-        "score": 268.5652318634856,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-302630/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//iCPVeoFYhyfLeaPblaZSHNSzHak.jpg",
-        "sceances": {
-            "Guipry": 97916,
-            "Paris": 115755
-        }
-    },
-    {
         "name": "Noël avec les frères Koalas",
         "critiquePress": 3.3,
         "spectateur": 2.7,
@@ -4539,9 +4545,9 @@
             "Marennes": 89721,
             "Beaune": 91065,
             "Semur-en-Auxois": 91613,
-            "Étables-sur-Mer": 91783,
             "Saint-Astier": 92789,
-            "Brest": 95171
+            "Brest": 95171,
+            "Auterive": 95854
         }
     },
     {
@@ -4554,11 +4560,9 @@
         "url": "https://www.allocine.fr/seance/film-249794/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//5nlpxvEbFghORtYWXT1JB8GoHNw.jpg",
         "sceances": {
-            "Paris": 115755,
             "Paris 13e arrondissement": 115768,
             "Cholet": 102651,
-            "Paris 19e arrondissement": 115774,
-            "Paris 20e arrondissement": 115775
+            "Paris": 115755
         }
     },
     {
@@ -4652,14 +4656,14 @@
             "Bourgoin-Jallieu": 98735,
             "La Bernerie-en-Retz": 101090,
             "Freyming-Merlebach": 106749,
-            "Château-Chinon (Ville)": 107344,
             "Luzy": 107431,
             "Saint-Honoré-les-Bains": 107528,
             "Lomme": 107956,
             "Mulhouse": 113016,
             "Châtel": 115487,
             "Gonfreville-l'Orcher": 116077,
-            "Rouen": 116312
+            "Rouen": 116312,
+            "Montdidier": 118267
         }
     },
     {
@@ -4674,7 +4678,6 @@
         "sceances": {
             "Saint-Céré": 101939,
             "Villeneuve-d'Ascq": 107615,
-            "Clermont-Ferrand": 110514,
             "Lyon 1er arrondissement": 113490,
             "Arcueil": 121612,
             "Caen": 88168,
@@ -4688,7 +4691,8 @@
             "Montreuil": 121588,
             "Équeurdreville-Hainneville": 103105,
             "Le Mans": 114889,
-            "Paris": 115755
+            "Paris": 115755,
+            "Clermont-Ferrand": 110514
         }
     },
     {
@@ -4732,12 +4736,12 @@
             "Rouen": 116312,
             "Montigny-le-Bretonneux": 117252,
             "La Valette-du-Var": 119201,
-            "Cagnes-sur-Mer": 85266,
             "Dijon": 91241,
             "Le Mans": 114889,
             "Ambérieu-en-Bugey": 83207,
             "Saint-Genis-Pouilly": 83545,
-            "La Ferté-Milon": 83963
+            "La Ferté-Milon": 83963,
+            "Saint-Quentin": 84346
         }
     },
     {
@@ -5099,17 +5103,6 @@
             "Colmar": 112858,
             "Mulhouse": 113016
         }
-    },
-    {
-        "name": "Annabelle – La Maison Du Mal",
-        "critiquePress": 2.2,
-        "spectateur": 2.4,
-        "date": "10 juillet 2019",
-        "score": 19.279429154006632,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-264422/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg",
-        "sceances": {}
     },
     {
         "name": "Plancha",

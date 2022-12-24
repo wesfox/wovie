@@ -80,7 +80,7 @@ async function getTmdbData(title: string, year: string) {
   }
   return {
     language: tmdbAllData[0].original_language,
-    poster: `https://image.tmdb.org/t/p/w500/${tmdbAllData[0].poster_path}`,
+    poster: `https://image.tmdb.org/t/p/w200/${tmdbAllData[0].poster_path}`,
   };
 }
 
