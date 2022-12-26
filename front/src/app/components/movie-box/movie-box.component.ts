@@ -1,5 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { Movie } from '../interface/movie';
+import { Movie } from '../../interface/movie';
 
 @Component({
   selector: 'app-movie-box',
@@ -7,15 +7,17 @@ import { Movie } from '../interface/movie';
   styleUrls: ['./movie-box.component.scss'],
 })
 export class MovieBoxComponent implements OnInit {
-  @Input() movie!: Movie;
+  @Input() movie?: Movie = undefined;
 
   public criticsRating!: string;
   public publicRating!: string;
   public year!: string;
 
   ngOnInit() {
-    this.criticsRating = this.movie.critiquePress?.toFixed(1) || '???';
-    this.publicRating = this.movie.spectateur?.toFixed(1) || '???';
-    this.year = this.movie.date?.slice(-4) || '????';
+    if (this.movie) {
+      this.criticsRating = this.movie.critiquePress?.toFixed(1) || '???';
+      this.publicRating = this.movie.spectateur?.toFixed(1) || '???';
+      this.year = this.movie.date?.slice(-4) || '????';
+    }
   }
 }

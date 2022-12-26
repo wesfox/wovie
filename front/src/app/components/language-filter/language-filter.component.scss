@@ -1,0 +1,10 @@
+:host {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  app-flag {
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+  }
+}

@@ -1,36 +1,19 @@
 [
     {
-        "name": "La Vie est belle",
-        "critiquePress": 5,
-        "spectateur": 4.3,
-        "date": "10 décembre 1947",
-        "score": 2870729.8418161767,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-5762/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
-        "sceances": {
-            "Lyon": 113315,
-            "Lyon 8e arrondissement": 113497,
-            "Paris": 115755,
-            "Paris 5e arrondissement": 115760
-        }
-    },
-    {
         "name": "Haute pègre",
         "critiquePress": 4.5,
         "spectateur": 4.2,
         "date": "2 juin 1933",
-        "score": 2585128.7464528996,
+        "score": 2585554.9971576137,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-4/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//FBxuoLRD3Biyul14unT5m3PYNS.jpg",
         "sceances": {
             "Paris": 115755,
-            "Marseille": 87914,
-            "Marseille 6e arrondissement": 87984,
-            "Metz": 106969,
             "Paris 17e arrondissement": 115772,
             "Meschers-sur-Gironde": 89732,
+            "Lyon": 113315,
+            "Lyon 8e arrondissement": 113497,
             "Paris 5e arrondissement": 115760
         }
     },
@@ -39,7 +22,7 @@
         "critiquePress": 4.8,
         "spectateur": 4.1,
         "date": "25 avril 1938",
-        "score": 2556681.869564848,
+        "score": 2557125.231501245,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-632/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//vEhBrK5Lcrjq1BR4FurSQyvsWUX.jpg",
@@ -62,7 +45,7 @@
         "critiquePress": 5,
         "spectateur": 4,
         "date": "19 mars 1948",
-        "score": 1676885.3690871438,
+        "score": 1677210.1288163685,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-3748/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//4RERYb1NIQrJHYY5e8nUlYM7t2z.jpg",
@@ -79,7 +62,7 @@
         "critiquePress": 4.5,
         "spectateur": 4.2,
         "date": "4 juin 1947",
-        "score": 1409709.95355594,
+        "score": 1409980.445589869,
         "url": "https://www.allocine.fr/seance/film-1646/pres-de-115755/",
         "sceances": {
             "Paris": 115755,
@@ -91,17 +74,29 @@
         }
     },
     {
+        "name": "La Belle et le Clochard",
+        "critiquePress": 5,
+        "spectateur": 4,
+        "date": "1 octobre 1955",
+        "score": 1155776.456681104,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-139/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//r9FiDSdBwNHdRwN0NMRrqfEHJGO.jpg",
+        "sceances": {
+            "La Rochelle": 89802
+        }
+    },
+    {
         "name": "Le Feu Follet",
         "critiquePress": 5,
         "spectateur": 4,
         "date": "15 octobre 1963",
-        "score": 744459.995680713,
+        "score": 744636.6301898164,
         "language": "fr",
         "url": "https://www.allocine.fr/seance/film-735/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//9iHsReoh2VuHihDmNXgLXCi18rR.jpg",
         "sceances": {
             "Avignon": 119251,
-            "Clermont-Ferrand": 110514,
             "Antony": 121528,
             "Decazeville": 87625,
             "Montpellier": 97612,
@@ -117,7 +112,22 @@
         "critiquePress": 4.3,
         "spectateur": 4,
         "date": "22 mai 1947",
-        "score": 736536.097140251,
+        "score": 736677.3574384479,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-3984/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//tneFytRScAd4KRxhLjCBS7jdmnV.jpg",
+        "sceances": {
+            "Nantes": 101187,
+            "Paris": 115755,
+            "Paris 5e arrondissement": 115760
+        }
+    },
+    {
+        "name": "Rebecca",
+        "critiquePress": 4.3,
+        "spectateur": 4,
+        "date": "22 mai 1947",
+        "score": 736677.3574515391,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-3984/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//tneFytRScAd4KRxhLjCBS7jdmnV.jpg",
@@ -138,10 +148,32 @@
         "poster": "https://image.tmdb.org/t/p/w500//cMYCDADoLKLbB83g4WnJegaZimC.jpg",
         "sceances": {
             "Paris": 115755,
+            "Gray": 113813,
             "Charlieu": 100527,
             "Aubière": 110415,
+            "Orthez": 111322,
             "Paris 6e arrondissement": 115761,
             "Paris 13e arrondissement": 115768,
+            "Paris 5e arrondissement": 115760
+        }
+    },
+    {
+        "name": "Le Voyage de Chihiro",
+        "critiquePress": 4.8,
+        "spectateur": 4.4,
+        "date": "10 avril 2002",
+        "score": 666639.5904000003,
+        "language": "ja",
+        "url": "https://www.allocine.fr/seance/film-37485/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "sceances": {
+            "Paris": 115755,
+            "Montpellier": 97612,
+            "Agen": 102029,
+            "Aubière": 110415,
+            "Strasbourg": 112664,
+            "Paris 13e arrondissement": 115768,
+            "Sarcelles": 121821,
             "Paris 5e arrondissement": 115760
         }
     },
@@ -156,7 +188,6 @@
         "poster": "https://image.tmdb.org/t/p/w500//uzMlN4rtkNewJ5UDNut8yhUxNxa.jpg",
         "sceances": {
             "Épernay": 103793,
-            "Hénin-Beaumont": 109910,
             "Huelgoat": 95232,
             "Montreuil": 121588,
             "Angers": 102559,
@@ -165,30 +196,11 @@
         }
     },
     {
-        "name": "Les Amants",
-        "critiquePress": 4.8,
-        "spectateur": 3.8,
-        "date": "5 novembre 1958",
-        "score": 508576.3135552795,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-734/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//5WxZp3XpCnK1EQ6D8XASbpCkrzO.jpg",
-        "sceances": {
-            "Clermont-Ferrand": 110514,
-            "Avignon": 119251,
-            "Montpellier": 97612,
-            "Strasbourg": 112664,
-            "Morlaix": 95298,
-            "Paris": 115755,
-            "Paris 5e arrondissement": 115760
-        }
-    },
-    {
         "name": "Le Voleur",
         "critiquePress": 5,
         "spectateur": 3.9,
         "date": "22 février 1967",
-        "score": 494236.3492164717,
+        "score": 494359.5937718208,
         "language": "fr",
         "url": "https://www.allocine.fr/seance/film-63944/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//tPEDn3u2q8q82kREjiGKmfA7rPm.jpg",
@@ -214,16 +226,13 @@
         "poster": "https://image.tmdb.org/t/p/w500//oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
         "sceances": {
             "Valence": 93989,
-            "L' Isle-Jourdain": 96570,
             "Clamecy": 107361,
             "Lyon": 113315,
             "Montreuil": 121588,
             "Blaye": 96938,
             "Lyon 8e arrondissement": 113497,
             "Paris": 115755,
-            "Ivry-sur-Seine": 121627,
-            "Orthez": 111322,
-            "Paris 5e arrondissement": 115760
+            "Ivry-sur-Seine": 121627
         }
     },
     {
@@ -231,7 +240,7 @@
         "critiquePress": 5,
         "spectateur": 3.8,
         "date": "7 novembre 1963",
-        "score": 474722.1933503796,
+        "score": 474834.9306432584,
         "language": "it",
         "url": "https://www.allocine.fr/seance/film-4300/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//zR9uj0dtm5osrrpM7zwO5ndAtbh.jpg",
@@ -250,7 +259,7 @@
         "critiquePress": 3.9,
         "spectateur": 4.4,
         "date": "25 avril 1955",
-        "score": 469059.06960626843,
+        "score": 469158.2164629041,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-983/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//qitnZcLP7C9DLRuPpmvZ7GiEjJN.jpg",
@@ -262,25 +271,11 @@
         }
     },
     {
-        "name": "Diamants sur canapé",
-        "critiquePress": 4.5,
-        "spectateur": 4,
-        "date": "10 janvier 1962",
-        "score": 463033.63915081805,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-2736/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//79xm4gXw4l7A5D0XukUOJRocFYQ.jpg",
-        "sceances": {
-            "Paris": 115755,
-            "Paris 5e arrondissement": 115760
-        }
-    },
-    {
         "name": "Ascenseur pour l'échafaud",
         "critiquePress": 4.3,
         "spectateur": 4,
         "date": "1 février 1958",
-        "score": 431717.74193004123,
+        "score": 431812.37608677853,
         "language": "fr",
         "url": "https://www.allocine.fr/seance/film-27559/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//dLbf8LtbLQFM7KUaVgwkfKIPqXu.jpg",
@@ -295,40 +290,6 @@
             "Clermont-l'Hérault": 97519,
             "Paris": 115755,
             "Paris 5e arrondissement": 115760
-        }
-    },
-    {
-        "name": "2001 : l'odyssée de l&#039;espace",
-        "critiquePress": 4.6,
-        "spectateur": 4.1,
-        "date": "27 septembre 1968",
-        "score": 428326.9822258651,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-27442/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
-        "sceances": {
-            "Paris": 115755,
-            "Paris 6e arrondissement": 115761,
-            "Toulouse": 96373,
-            "Paris 5e arrondissement": 115760
-        }
-    },
-    {
-        "name": "Porco Rosso",
-        "critiquePress": 4.8,
-        "spectateur": 4.1,
-        "date": "21 juin 1995",
-        "score": 411547.91039999976,
-        "language": "ja",
-        "url": "https://www.allocine.fr/seance/film-10257/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//byKAndF6KQSDpGxp1mTr23jPbYp.jpg",
-        "sceances": {
-            "Paris 6e arrondissement": 115761,
-            "Paris": 115755,
-            "Saint-Nazaire": 101262,
-            "Montpon-Ménestérol": 92713,
-            "Charlieu": 100527,
-            "Orthez": 111322
         }
     },
     {
@@ -389,21 +350,10 @@
         "url": "https://www.allocine.fr/seance/film-50409/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//yeJ5Nj1k2NA0bBZjkZ10PvQKjTD.jpg",
         "sceances": {
-            "Bordeaux": 96943,
-            "Strasbourg": 112664,
-            "Mondeville": 88486,
-            "Rosny-sous-Bois": 121599,
-            "Cergy": 121698,
-            "Talence": 97395,
             "Orthez": 111322,
-            "Lyon": 113315,
+            "Strasbourg": 112664,
             "Paris 6e arrondissement": 115761,
-            "Montigny-le-Bretonneux": 117252,
-            "Vélizy-Villacoublay": 117329,
-            "Lille": 107951,
-            "Paris": 115755,
-            "Puteaux": 121554,
-            "Créteil": 121622
+            "Paris": 115755
         }
     },
     {
@@ -495,6 +445,7 @@
         "url": "https://www.allocine.fr/seance/film-206775/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//gGEsBPAijhVUFoiNpgZXqRVWJt2.jpg",
         "sceances": {
+            "Fos-sur-Mer": 87898,
             "Quimper": 95372,
             "Vern-sur-Seiche": 98137,
             "Saint-Nazaire": 101262,
@@ -502,12 +453,10 @@
             "Hénin-Beaumont": 109910,
             "La Roche-sur-Yon": 119580,
             "Athies-sous-Laon": 83685,
-            "Concarneau": 95191,
             "Bruz": 97835,
             "Les Ponts-de-Cé": 102797,
             "Laval": 104893,
-            "Vannes": 106508,
-            "Lorient": 106369
+            "Vannes": 106508
         }
     },
     {
@@ -532,7 +481,7 @@
         "critiquePress": 4.1,
         "spectateur": null,
         "date": "23 février 1934",
-        "score": 234372.17057888836,
+        "score": 234411.1000963005,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-1389/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//h0T4FHsY51IccSGqGfaoYsd7hyx.jpg",
@@ -541,7 +490,6 @@
             "Marseille": 87914,
             "Marseille 6e arrondissement": 87984,
             "Montignac": 92710,
-            "Orléans": 101569,
             "Metz": 106969,
             "Veyrier-du-Lac": 115717,
             "Paris 17e arrondissement": 115772,
@@ -549,6 +497,20 @@
             "Guichen": 97913,
             "Toulouse": 96373,
             "Paris 5e arrondissement": 115760
+        }
+    },
+    {
+        "name": "La Nuit nous appartient",
+        "critiquePress": 4.4,
+        "spectateur": 4,
+        "date": "28 novembre 2007",
+        "score": 205752.9600000001,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-109680/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//rsKhSr3UNjG2DhVj2KPj0ARujez.jpg",
+        "sceances": {
+            "Marseille": 87914,
+            "Marseille 1er arrondissement": 87979
         }
     },
     {
@@ -562,7 +524,8 @@
         "poster": "https://image.tmdb.org/t/p/w500//u6SlgqA5iaQBwsFg1g3kpxCJQre.jpg",
         "sceances": {
             "Forcalquier": 84896,
-            "Rouen": 116312
+            "Rouen": 116312,
+            "Seynod": 115687
         }
     },
     {
@@ -601,19 +564,33 @@
             "Paris 5e arrondissement": 115760,
             "Paris 10e arrondissement": 115765,
             "Nice": 85327,
+            "Roquefort-les-Pins": 85344,
             "Marignane": 87913,
             "Marseille 16e arrondissement": 87994,
             "Saulieu": 91594,
             "Buis-les-Baronnies": 93694,
             "Saint-Paul-Trois-Châteaux": 93951,
+            "Quimper": 95372,
             "Aucamville": 95843,
+            "Auzielle": 95857,
+            "Arcachon": 96889,
             "Libourne": 97122,
             "Buzançais": 98187,
-            "Saint-Martin-d'Hères": 99084,
-            "Saint-Bonnet-le-Château": 100677,
-            "Pornic": 101209,
-            "Saint-Michel-Chef-Chef": 101260,
-            "Hauteville-sur-Mer": 103162
+            "Châteauroux": 98200
+        }
+    },
+    {
+        "name": "La Balade sauvage",
+        "critiquePress": 4.2,
+        "spectateur": 3.9,
+        "date": "4 juin 1975",
+        "score": 122444.0064,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-15801/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//eJiVU3sTv9iYbytBzdaPijXsyIk.jpg",
+        "sceances": {
+            "Paris": 115755,
+            "Paris 5e arrondissement": 115760
         }
     },
     {
@@ -640,13 +617,13 @@
             "Manosque": 84919,
             "Saint-Bonnet-en-Champsaur": 85182,
             "Nice": 85327,
+            "Roquefort-les-Pins": 85344,
             "Guilherand-Granges": 85530,
             "Eyguières": 87894,
             "Fos-sur-Mer": 87898,
             "Noves": 87925,
             "Hérouville-Saint-Clair": 88377,
-            "Marignana": 90750,
-            "Erquy": 91782
+            "Marignana": 90750
         }
     },
     {
@@ -679,13 +656,10 @@
         "url": "https://www.allocine.fr/seance/film-134925/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
         "sceances": {
-            "Lyon 3e arrondissement": 113492,
             "Yvetot": 116525,
             "La Roche-sur-Yon": 119580,
-            "Lyon": 113315,
-            "Paris 13e arrondissement": 115768,
-            "Jaux": 108606,
-            "Paris": 115755
+            "Saint-André-de-Cubzac": 97243,
+            "Jaux": 108606
         }
     },
     {
@@ -785,6 +759,7 @@
             "La Roche-sur-Yon": 119580,
             "Ris-Orangis": 121463,
             "Lannion": 91840,
+            "Pessac": 97196,
             "Montpellier": 97612,
             "Saint-Méen-le-Grand": 98083,
             "Saint-Julien-Molin-Molette": 100718,
@@ -793,8 +768,22 @@
             "Ibos": 111681,
             "Vic-en-Bigorre": 111914,
             "Saverne": 112619,
-            "Bretignolles-sur-Mer": 119430,
-            "Fontenay-aux-Roses": 121541
+            "Bretignolles-sur-Mer": 119430
+        }
+    },
+    {
+        "name": "Les Oiseaux",
+        "critiquePress": 4.2,
+        "spectateur": null,
+        "date": "6 septembre 1963",
+        "score": 67431.94005916057,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-1053/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//vkO3NOjUFkhPrrn7ztSFlhHwGks.jpg",
+        "sceances": {
+            "Boulazac": 92478,
+            "Paris": 115755,
+            "Paris 5e arrondissement": 115760
         }
     },
     {
@@ -818,7 +807,6 @@
             "Bordeaux": 96943,
             "Lyon": 113315,
             "Paris 6e arrondissement": 115761,
-            "Le Mans": 114889,
             "Albi": 118540,
             "Gex": 83370,
             "Saint-Genis-Pouilly": 83545,
@@ -827,7 +815,8 @@
             "Nice": 85327,
             "Guilherand-Granges": 85530,
             "Lamastre": 85557,
-            "Tournon-sur-Rhône": 85752
+            "Tournon-sur-Rhône": 85752,
+            "Les Vans": 85762
         }
     },
     {
@@ -876,24 +865,24 @@
             "Paris": 115755,
             "Marseille": 87914,
             "Lyon": 113315,
+            "Paris 5e arrondissement": 115760,
             "Villeneuve-d'Ascq": 107615,
             "Clermont-Ferrand": 110514,
             "La Rochelle": 89802,
             "Montpellier": 97612,
+            "Paris 6e arrondissement": 115761,
             "Amiens": 117737,
             "Toulouse": 96373,
-            "Paris 5e arrondissement": 115760,
             "Paris 14e arrondissement": 115769,
             "Vichy": 84799,
             "Barcelonnette": 84829,
             "Guillestre": 85117,
             "Nice": 85327,
+            "Roquefort-les-Pins": 85344,
             "Les Vans": 85762,
-            "Carcassonne": 87154,
             "Limoux": 87291,
-            "Fos-sur-Mer": 87898,
-            "Marignane": 87913,
-            "Marseille 6e arrondissement": 87984
+            "NARBONNE PLAGE": 87533,
+            "Fos-sur-Mer": 87898
         }
     },
     {
@@ -908,8 +897,8 @@
         "sceances": {
             "Paris": 115755,
             "Lyon": 113315,
-            "Marseille": 87914,
             "Paris 6e arrondissement": 115761,
+            "Marseille": 87914,
             "La Rochelle": 89802,
             "Montpellier": 97612,
             "Paris 5e arrondissement": 115760,
@@ -917,6 +906,7 @@
             "Vichy": 84799,
             "Manosque": 84919,
             "Nice": 85327,
+            "Roquefort-les-Pins": 85344,
             "Marignane": 87913,
             "Noves": 87925,
             "Marseille 6e arrondissement": 87984,
@@ -925,8 +915,7 @@
             "Beaune": 91065,
             "Saulieu": 91594,
             "Buis-les-Baronnies": 93694,
-            "Montesquieu-Volvestre": 96193,
-            "Quint": 96263
+            "Auzielle": 95857
         }
     },
     {
@@ -940,26 +929,26 @@
         "poster": "https://image.tmdb.org/t/p/w500//cXjLP4zqnQOfTtdzoKNKksNwb11.jpg",
         "sceances": {
             "Paris": 115755,
+            "Lyon": 113315,
             "Paris 5e arrondissement": 115760,
             "Paris 10e arrondissement": 115765,
-            "Lyon": 113315,
             "Paris 6e arrondissement": 115761,
             "Vichy": 84799,
             "Barcelonnette": 84829,
             "Manosque": 84919,
             "Guillestre": 85117,
             "Nice": 85327,
+            "Roquefort-les-Pins": 85344,
             "Fos-sur-Mer": 87898,
             "Marignana": 90750,
             "Saint-Paul-Trois-Châteaux": 93951,
             "Aucamville": 95843,
+            "Auzielle": 95857,
             "Saint-Gaudens": 96301,
+            "Arcachon": 96889,
             "Libourne": 97122,
             "Frontignan": 97548,
-            "Saint-Michel-Chef-Chef": 101260,
-            "Saint-Nazaire": 101262,
-            "Vallet": 101290,
-            "Mayenne": 104910
+            "Saint-Michel-Chef-Chef": 101260
         }
     },
     {
@@ -988,11 +977,11 @@
             "Strasbourg": 112664,
             "Lyon 6e arrondissement": 113495,
             "Paris 13e arrondissement": 115768,
-            "Marly-le-Roi": 117227,
             "Montigny-le-Bretonneux": 117252,
             "Poissy": 117276,
             "Vélizy-Villacoublay": 117329,
-            "Toulouse": 96373
+            "Toulouse": 96373,
+            "Tournefeuille": 96375
         }
     },
     {
@@ -1024,11 +1013,10 @@
         "poster": "https://image.tmdb.org/t/p/w500//fyuhkgPQSXiToYMQ3bIk2uVoulb.jpg",
         "sceances": {
             "Paris": 115755,
+            "Thiviers": 92965,
             "Tonneins": 102335,
-            "Saint-Jean-d'Angély": 89849,
             "La Réole": 97229,
             "Paris 6e arrondissement": 115761,
-            "La Crèche": 117412,
             "Saint-Pierre-d'Oléron": 89887
         }
     },
@@ -1094,10 +1082,12 @@
             "Lyon": 113315,
             "Paris 5e arrondissement": 115760,
             "Nice": 85327,
+            "Roquefort-les-Pins": 85344,
             "Saint-Rémy-de-Provence": 87959,
             "Marignana": 90750,
             "Saint-Astier": 92789,
             "Bessières": 95887,
+            "Arcachon": 96889,
             "Langeais": 98528,
             "Saint-Paulien": 101027,
             "Saint-Michel-Chef-Chef": 101260,
@@ -1107,9 +1097,7 @@
             "Villeneuve-d'Ascq": 107615,
             "Bousbecque": 107701,
             "Lyon 3e arrondissement": 113492,
-            "Tournus": 114659,
-            "Mulsanne": 114920,
-            "Lanslebourg-Mont-Cenis": 115231
+            "Tournus": 114659
         }
     },
     {
@@ -1134,32 +1122,15 @@
             "Marseille 1er arrondissement": 87979,
             "La Rochelle": 89802,
             "Besançon": 93056,
+            "Huelgoat": 95232,
             "Quimperlé": 95373,
             "Nîmes": 95640,
             "Montpellier": 97612,
             "Saint-Étienne": 100691,
-            "La Turballe": 101289,
             "Bayonne": 110994,
             "Lyon": 113315,
             "Amiens": 117737,
             "Toulouse": 96373
-        }
-    },
-    {
-        "name": "Le Chêne",
-        "critiquePress": 3.7,
-        "spectateur": 4.1,
-        "date": "23 février 2022",
-        "score": 62240.270399999994,
-        "language": "xx",
-        "url": "https://www.allocine.fr/seance/film-296970/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//AqSSNAUNwgTn08uClomAmY7Aknz.jpg",
-        "sceances": {
-            "Pau": 111337,
-            "Meythet": 115605,
-            "Civray": 119774,
-            "Lans-en-Vercors": 98874,
-            "Cran-Gevrier": 115516
         }
     },
     {
@@ -1175,8 +1146,10 @@
             "Paris": 115755,
             "Paris 6e arrondissement": 115761,
             "Manosque": 84919,
+            "Roquefort-les-Pins": 85344,
             "Marignane": 87913,
             "Buis-les-Baronnies": 93694,
+            "Arcachon": 96889,
             "Libourne": 97122,
             "Frontignan": 97548,
             "Châteauroux": 98200,
@@ -1190,9 +1163,7 @@
             "Pau": 111337,
             "Vaugneray": 113445,
             "Lyon 3e arrondissement": 113492,
-            "Tournus": 114659,
-            "Paris 4e arrondissement": 115759,
-            "Montauroux": 119138
+            "Tournus": 114659
         }
     },
     {
@@ -1219,16 +1190,14 @@
         "critiquePress": 4.7,
         "spectateur": 3,
         "date": "22 novembre 1965",
-        "score": 54979.529794382644,
+        "score": 54992.98402341268,
         "language": "fr",
         "url": "https://www.allocine.fr/seance/film-3228/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//dXoW8MNvpKn3dpFS1rhzwZAUdWF.jpg",
         "sceances": {
             "Avignon": 119251,
-            "Antony": 121528,
             "Nantes": 101187,
-            "Strasbourg": 112664,
-            "Montpellier": 97612
+            "Strasbourg": 112664
         }
     },
     {
@@ -1274,8 +1243,6 @@
             "Montigny-le-Bretonneux": 117252,
             "Vélizy-Villacoublay": 117329,
             "Toulouse": 96373,
-            "Paris": 115755,
-            "Paris 5e arrondissement": 115760,
             "Puteaux": 121554,
             "Créteil": 121622
         }
@@ -1291,7 +1258,6 @@
         "poster": "https://image.tmdb.org/t/p/w500//tk4kHoeXx0i7TROwiOrcSEtHOEl.jpg",
         "sceances": {
             "Paris": 115755,
-            "Paris 5e arrondissement": 115760,
             "Paris 10e arrondissement": 115765
         }
     },
@@ -1306,7 +1272,6 @@
         "poster": "https://image.tmdb.org/t/p/w500//kDcEfgF7CUo0IYLIazUYYqxagTG.jpg",
         "sceances": {
             "Paris": 115755,
-            "Villeneuve-d'Ascq": 107615,
             "Montpellier": 97612,
             "Lyon": 113315,
             "Amiens": 117737,
@@ -1316,16 +1281,17 @@
             "Marseille 16e arrondissement": 87994,
             "Marignana": 90750,
             "Buis-les-Baronnies": 93694,
+            "Quimper": 95372,
             "Châteauroux": 98200,
+            "Saint-Michel-Chef-Chef": 101260,
             "Saint-Nazaire": 101262,
+            "Hauteville-sur-Mer": 103162,
             "Mayenne": 104910,
             "Thionville": 107175,
+            "Villeneuve-d'Ascq": 107615,
+            "Senlis": 108887,
             "Vaugneray": 113445,
-            "Lyon 3e arrondissement": 113492,
-            "Chelles": 116645,
-            "Dammarie-les-Lys": 116689,
-            "Toulon": 119194,
-            "Levallois-Perret": 121546
+            "Lyon 3e arrondissement": 113492
         }
     },
     {
@@ -1398,8 +1364,7 @@
         "sceances": {
             "Paris": 115755,
             "Paris 6e arrondissement": 115761,
-            "Paris 10e arrondissement": 115765,
-            "Paris 5e arrondissement": 115760
+            "Paris 10e arrondissement": 115765
         }
     },
     {
@@ -1416,17 +1381,16 @@
         }
     },
     {
-        "name": "Eyes Wide Shut",
-        "critiquePress": 4.1,
-        "spectateur": 3.6,
-        "date": "15 septembre 1999",
-        "score": 45727.54559999998,
+        "name": "L'Assassinat de Jesse James par le lâche Robert Ford",
+        "critiquePress": 4,
+        "spectateur": 3.7,
+        "date": "10 octobre 2007",
+        "score": 51438.24000000003,
         "language": "en",
-        "url": "https://www.allocine.fr/seance/film-20502/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+        "url": "https://www.allocine.fr/seance/film-108750/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//xMKn6EQS7eR5ubhPJbw5pQSBZMw.jpg",
         "sceances": {
             "Paris": 115755,
-            "Paris 6e arrondissement": 115761,
             "Paris 5e arrondissement": 115760
         }
     },
@@ -1440,6 +1404,7 @@
         "url": "https://www.allocine.fr/seance/film-292926/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//tIMpbHUgN303akVFwo674FBr21n.jpg",
         "sceances": {
+            "Val-de-Reuil": 94723,
             "Poitiers": 119890,
             "Narbonne": 87346,
             "Montpellier": 97612,
@@ -1452,7 +1417,7 @@
         "critiquePress": 4,
         "spectateur": null,
         "date": "1 décembre 1964",
-        "score": 43560.81969313495,
+        "score": 43571.32722136926,
         "language": "en",
         "url": "https://www.allocine.fr/seance/film-45518/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//7lyeeuhGAJSNXYEW34S8mJ1bwI8.jpg",
@@ -1510,40 +1475,6 @@
         }
     },
     {
-        "name": "Les Aristochats",
-        "critiquePress": 4.1,
-        "spectateur": null,
-        "date": "8 décembre 1971",
-        "score": 34107.04065796437,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-96/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//oHUlbdvoFIbcOwzxefowT9sMuiT.jpg",
-        "sceances": {
-            "Bressuire": 117413,
-            "Pantin": 121593,
-            "Torcy": 117003,
-            "Longjumeau": 121421,
-            "Bagnolet": 121571
-        }
-    },
-    {
-        "name": "Mary Poppins",
-        "critiquePress": 3.9,
-        "spectateur": null,
-        "date": "1 octobre 1965",
-        "score": 33589.61825422249,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-426/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//1DjJh0vwGwi6KugPZfDiliO25XP.jpg",
-        "sceances": {
-            "Clermont-Ferrand": 110514,
-            "Enghien-les-Bains": 121720,
-            "Tours": 98662,
-            "Paris": 115755,
-            "Paris 12e arrondissement": 115767
-        }
-    },
-    {
         "name": "Sous les figues",
         "critiquePress": 3.7,
         "spectateur": 3.8,
@@ -1597,7 +1528,6 @@
             "Port-Saint-Louis-du-Rhône": 87937,
             "Saint-Martin-de-Crau": 87956,
             "Hérouville-Saint-Clair": 88377,
-            "Marignana": 90750,
             "Erquy": 91782,
             "Vergt": 92984,
             "Valence": 93989,
@@ -1606,7 +1536,8 @@
             "Langeais": 98528,
             "Saint-Laurent-du-Pont": 99075,
             "Donges": 101130,
-            "Saint-Étienne-de-Montluc": 101236
+            "Saint-Étienne-de-Montluc": 101236,
+            "Orléans": 101569
         }
     },
     {
@@ -1663,12 +1594,14 @@
             "Bordeaux": 96943,
             "Pompignac": 97208,
             "Montpellier": 97612,
+            "Le Blanc": 98174,
             "Nantes": 101187,
             "Agen": 102029,
             "Marmande": 102184,
             "Calais": 109678,
             "Saverdun": 86561,
-            "Angoulême": 89095
+            "Angoulême": 89095,
+            "Peyrehorade": 100066
         }
     },
     {
@@ -1741,6 +1674,7 @@
             "Gex": 83370,
             "Gannat": 84607,
             "Vichy": 84799,
+            "Saint-Bonnet-en-Champsaur": 85182,
             "Nice": 85327,
             "Roquefort-les-Pins": 85344,
             "Aubenas": 85447,
@@ -1750,7 +1684,6 @@
             "Fos-sur-Mer": 87898,
             "Marseille 6e arrondissement": 87984,
             "Marseille 16e arrondissement": 87994,
-            "Cabourg": 88167,
             "Ruffec": 89371,
             "Saint-Astier": 92789
         }
@@ -1808,17 +1741,17 @@
             "Valence": 93989,
             "Metz": 106969,
             "Villeneuve-d'Ascq": 107615,
-            "Clermont-Ferrand": 110514,
             "Lyon 1er arrondissement": 113490,
             "Paris 4e arrondissement": 115759,
             "Nîmes": 95640,
             "Bordeaux": 96943,
             "Montpellier": 97612,
-            "Blois": 100199,
             "Calais": 109678,
             "Strasbourg": 112664,
             "Lyon": 113315,
-            "Paris 6e arrondissement": 115761
+            "Paris 6e arrondissement": 115761,
+            "Amiens": 117737,
+            "Saint-Junien": 120148
         }
     },
     {
@@ -1838,11 +1771,22 @@
             "Nîmes": 95640,
             "Montpellier": 97612,
             "Leers": 107940,
-            "Paris": 115755,
             "Étampes": 121389,
             "Ivry-sur-Seine": 121627,
-            "Vitry-sur-Seine": 121656,
-            "Châlons-en-Champagne": 103680
+            "Vitry-sur-Seine": 121656
+        }
+    },
+    {
+        "name": "Volt, star malgré lui",
+        "critiquePress": 3.9,
+        "spectateur": 3.5,
+        "date": "4 février 2009",
+        "score": 21257.64,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-132846/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//z9VHoUcZ1GiH3f3qYz7Me7Zc1Fd.jpg",
+        "sceances": {
+            "Meudon": 121549
         }
     },
     {
@@ -1883,7 +1827,7 @@
         "critiquePress": 3.8,
         "spectateur": null,
         "date": "28 avril 1971",
-        "score": 18776.099300992795,
+        "score": 18781.098701684565,
         "language": "fr",
         "url": "https://www.allocine.fr/seance/film-446/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//uIysfvyTIIdfI6MmfAIBLgFb3OB.jpg",
@@ -1947,6 +1891,7 @@
             "Clermont-Ferrand": 110514,
             "Saint-Michel-de-Maurienne": 115346,
             "Paris 4e arrondissement": 115759,
+            "Châtillon-sur-Chalaronne": 83294,
             "Vitrolles": 87976,
             "Douvres-la-Délivrande": 88278,
             "Saint-Flour": 88995,
@@ -1955,7 +1900,6 @@
             "Guéret": 92252,
             "La Souterraine": 92331,
             "Montpellier": 97612,
-            "Vieux-Boucau-les-Bains": 100170,
             "Pélussin": 100641,
             "Nantes": 101187,
             "Pontchâteau": 101207,
@@ -1989,28 +1933,11 @@
             "Saint-Sever": 100124,
             "Saint-Galmier": 100695,
             "Bayonne": 110994,
-            "Guéthary": 111141,
             "Toulouse": 96373,
             "Lit-et-Mixe": 99999,
             "Peyrehorade": 100066,
-            "Aiguillon": 102032
-        }
-    },
-    {
-        "name": "Harry Potter et le Prince de sang mêlé",
-        "critiquePress": 3.6,
-        "spectateur": 3.7,
-        "date": "15 juillet 2009",
-        "score": 18517.766400000015,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-116305/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
-        "sceances": {
-            "Lyon 3e arrondissement": 113492,
-            "Yvetot": 116525,
-            "La Roche-sur-Yon": 119580,
-            "Lyon": 113315,
-            "Jaux": 108606
+            "Aiguillon": 102032,
+            "Saint-Jean-Pied-de-Port": 111377
         }
     },
     {
@@ -2032,6 +1959,21 @@
         }
     },
     {
+        "name": "Seule autour du monde",
+        "critiquePress": 3.8,
+        "spectateur": null,
+        "date": "9 novembre 2022",
+        "score": 16796.159999999993,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-305318/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//EtImI8Cjt7VPHywTL9UktRHQYb.jpg",
+        "sceances": {
+            "Les Ollières-sur-Eyrieux": 85595,
+            "Préfailles": 101214,
+            "Ile de Groix": 106318
+        }
+    },
+    {
         "name": "Tendres passions",
         "critiquePress": 3.8,
         "spectateur": null,
@@ -2045,20 +1987,6 @@
             "Saint-Gratien": 121813,
             "Paris 6e arrondissement": 115761,
             "Paris 13e arrondissement": 115768
-        }
-    },
-    {
-        "name": "Seule autour du monde",
-        "critiquePress": 3.8,
-        "spectateur": null,
-        "date": "9 novembre 2022",
-        "score": 16796.159999999993,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-305318/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//EtImI8Cjt7VPHywTL9UktRHQYb.jpg",
-        "sceances": {
-            "Préfailles": 101214,
-            "Ile de Groix": 106318
         }
     },
     {
@@ -2077,17 +2005,32 @@
         }
     },
     {
-        "name": "L'Ange rouge",
-        "critiquePress": 3.7,
+        "name": "Pocahontas, une légende indienne",
+        "critiquePress": 3.8,
         "spectateur": null,
-        "date": "16 avril 1969",
-        "score": 16365.880882625697,
-        "language": "ja",
-        "url": "https://www.allocine.fr/seance/film-3211/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//ci0WIBCFoIrtN3q1alk8KUW52n2.jpg",
+        "date": "22 novembre 1995",
+        "score": 16796.159999999993,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-13342/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg",
         "sceances": {
-            "Ibos": 111681,
-            "Palaiseau": 121453
+            "Bressuire": 117413,
+            "Pontarlier": 93458
+        }
+    },
+    {
+        "name": "Le Tigre qui s'invita pour le thé",
+        "critiquePress": 4,
+        "spectateur": 3.2,
+        "date": "14 septembre 2022",
+        "score": 16766.395209767365,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-296971/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//hAtKiqaa5uRP1XpFMv4xgRL5INw.jpg",
+        "sceances": {
+            "Asnières-sur-Seine": 121529,
+            "Brive-la-Gaillarde": 90340,
+            "Ugine": 115387
         }
     },
     {
@@ -2102,8 +2045,8 @@
         "sceances": {
             "Paris": 115755,
             "Lyon": 113315,
-            "Nantes": 101187,
             "Montpellier": 97612,
+            "Nantes": 101187,
             "Mulhouse": 113016,
             "Lyon 6e arrondissement": 113495,
             "Paris 6e arrondissement": 115761,
@@ -2118,8 +2061,8 @@
             "Erquy": 91782,
             "Bourdeilles": 92480,
             "Saint-Astier": 92789,
+            "Valdahon": 93574,
             "Saint-Paul-Trois-Châteaux": 93951,
-            "Brest": 95171,
             "Le Grau-du-Roi": 95584
         }
     },
@@ -2148,23 +2091,6 @@
             "Montreuil": 121588,
             "La Ciotat": 87887,
             "La Ferté-Macé": 109144,
-            "Paris": 115755,
-            "La Montagne": 101179
-        }
-    },
-    {
-        "name": "Certains l'aiment chaud",
-        "critiquePress": 3.2,
-        "spectateur": 4.2,
-        "date": "9 septembre 1959",
-        "score": 10643.971852985158,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-26186/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//hVIKyTK13AvOGv7ICmJjK44DTzp.jpg",
-        "sceances": {
-            "Saint-Nazaire": 101262,
-            "Nantes": 101187,
-            "Paris 6e arrondissement": 115761,
             "Paris": 115755
         }
     },
@@ -2185,8 +2111,7 @@
             "Blagnac": 95890,
             "Challans": 119442,
             "Muret": 96213,
-            "Luçon": 119520,
-            "Montivilliers": 116219
+            "Luçon": 119520
         }
     },
     {
@@ -2202,6 +2127,19 @@
             "Guingamp": 91798,
             "Castanet-Tolosan": 95934,
             "Torcy": 117003
+        }
+    },
+    {
+        "name": "Ben-Hur",
+        "critiquePress": 3.3,
+        "spectateur": 4.1,
+        "date": "1 octobre 1960",
+        "score": 9841.930226161634,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-1532/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+        "sceances": {
+            "Mulhouse": 113016
         }
     },
     {
@@ -2233,8 +2171,7 @@
             "Le Mans": 114889,
             "Paris 5e arrondissement": 115760,
             "Paris 10e arrondissement": 115765,
-            "Saint-Denis": 121600,
-            "Lyon 1er arrondissement": 113490
+            "Saint-Denis": 121600
         }
     },
     {
@@ -2291,19 +2228,17 @@
         }
     },
     {
-        "name": "Lynx",
-        "critiquePress": 3.4,
-        "spectateur": 4.4,
-        "date": "19 janvier 2022",
-        "score": 8789.72783266706,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-294156/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//yW8sj3CyPd8pplFGLxy8YoXmeBL.jpg",
+        "name": "Le Jour de la bête",
+        "critiquePress": 3.6,
+        "spectateur": null,
+        "date": "23 juillet 1997",
+        "score": 9447.840000000002,
+        "language": "es",
+        "url": "https://www.allocine.fr/seance/film-10798/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//yEXhgACPIV4PmTgHT2HS3Ko2oS3.jpg",
         "sceances": {
-            "Meythet": 115605,
-            "Bayonne": 110994,
-            "Abbeville": 117718,
-            "Cran-Gevrier": 115516
+            "Vitré": 98145,
+            "Gruissan": 87255
         }
     },
     {
@@ -2326,7 +2261,6 @@
             "Dammarie-les-Lys": 116689,
             "Auxerre": 120759,
             "Belfort": 121227,
-            "Marseille 1er arrondissement": 87979,
             "Carantec": 95175,
             "Montpellier": 97612,
             "Guéthary": 111141,
@@ -2336,7 +2270,8 @@
             "Toucy": 121151,
             "Franconville": 121730,
             "Le Buisson-de-Cadouin": 92493,
-            "Toulouse": 96373
+            "Toulouse": 96373,
+            "Blaye": 96938
         }
     },
     {
@@ -2362,14 +2297,14 @@
             "Lyon 1er arrondissement": 113490,
             "Bondy": 121574,
             "Neuilly-Plaisance": 121589,
+            "Foix": 86403,
             "La Rochelle": 89802,
             "Carbonne": 95928,
             "Lyon": 113315,
             "Paris 6e arrondissement": 115761,
             "Rouen": 116312,
             "Massy": 121427,
-            "Lavelanet": 86440,
-            "Marthon": 89290
+            "Lavelanet": 86440
         }
     },
     {
@@ -2396,13 +2331,13 @@
             "Périgueux": 92741,
             "Carantec": 95175,
             "Huelgoat": 95232,
+            "Villeurbanne": 113456,
             "Abbeville": 117718,
             "Massy": 121427,
             "Clichy": 121538,
             "Gruissan": 87255,
             "Angoulême": 89095,
-            "Saint-Georges-de-Didonne": 89835,
-            "Castanet-Tolosan": 95934
+            "Saint-Georges-de-Didonne": 89835
         }
     },
     {
@@ -2449,21 +2384,8 @@
         "poster": "https://image.tmdb.org/t/p/w500//mrz2fC1F9H8kbdKu2vOwyeMAzvg.jpg",
         "sceances": {
             "Sénas": 87964,
-            "Pantin": 121593
-        }
-    },
-    {
-        "name": "Tous en scène 2",
-        "critiquePress": 3.5,
-        "spectateur": 4.2,
-        "date": "22 décembre 2021",
-        "score": 7464.960000000002,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-253538/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//tLmDLwzBCJu1oID4EkiORECVrZb.jpg",
-        "sceances": {
-            "Arcachon": 96889,
-            "La Teste-de-Buch": 97402
+            "Pantin": 121593,
+            "Paris": 115755
         }
     },
     {
@@ -2532,7 +2454,6 @@
             "Paris": 115755,
             "Bordeaux": 96943,
             "Lyon": 113315,
-            "Paris 6e arrondissement": 115761,
             "Saint-Herblain": 101240,
             "Saint-Quentin": 84346,
             "Moulins": 84679,
@@ -2549,7 +2470,8 @@
             "Amnéville": 106533,
             "Thionville": 107175,
             "Beauvais": 108339,
-            "Anglet": 110916
+            "Anglet": 110916,
+            "Brignais": 113219
         }
     },
     {
@@ -2564,11 +2486,11 @@
         "sceances": {
             "Paris": 115755,
             "Lyon": 113315,
-            "Marseille": 87914,
             "Nantes": 101187,
             "Paris 6e arrondissement": 115761,
             "Toulouse": 96373,
             "Nice": 85327,
+            "Marseille": 87914,
             "Avignon": 119251,
             "Bordeaux": 96943,
             "Montpellier": 97612,
@@ -2579,10 +2501,10 @@
             "Rouen": 116312,
             "Grenoble": 98857,
             "Saint-Herblain": 101240,
+            "Saint-Genis-Pouilly": 83545,
             "Forcalquier": 84896,
-            "Veynes": 85228,
-            "Beaulieu-sur-Mer": 85250,
-            "Cannes": 85268
+            "L' Argentière-la-Bessée": 85061,
+            "Veynes": 85228
         }
     },
     {
@@ -2605,6 +2527,7 @@
             "Paris 12e arrondissement": 115767,
             "Gannat": 84607,
             "Forcalquier": 84896,
+            "L' Argentière-la-Bessée": 85061,
             "Nice": 85327,
             "Aubenas": 85447,
             "Aix-en-Provence": 87860,
@@ -2614,8 +2537,7 @@
             "Salon-de-Provence": 87962,
             "Villers-sur-Mer": 88797,
             "Saint-Palais-sur-Mer": 89882,
-            "Saint-Savinien": 89899,
-            "Surgères": 89935
+            "Saint-Savinien": 89899
         }
     },
     {
@@ -2634,6 +2556,7 @@
             "Marseille 6e arrondissement": 87984,
             "Redon": 98022,
             "Gourdon": 101815,
+            "Saint-Céré": 101939,
             "Metz": 106969,
             "Clermont-Ferrand": 110514,
             "Pau": 111337,
@@ -2647,24 +2570,7 @@
             "Valbonne": 85391,
             "Saint-Étienne": 100691,
             "Nantes": 101187,
-            "Damgan": 106301,
-            "Freyming-Merlebach": 106749
-        }
-    },
-    {
-        "name": "Les Aventures de Gigi la Loi",
-        "critiquePress": 3.8,
-        "spectateur": 2.7,
-        "date": "26 octobre 2022",
-        "score": 4588.68876629252,
-        "language": "it",
-        "url": "https://www.allocine.fr/seance/film-306161/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//vC8lBn1I0oUjd6iM3HFNdezcQcA.jpg",
-        "sceances": {
-            "Villedieu-les-Poêles": 103563,
-            "Mâcon": 114387,
-            "Toulouse": 96373,
-            "Paris": 115755
+            "Damgan": 106301
         }
     },
     {
@@ -2677,6 +2583,7 @@
         "url": "https://www.allocine.fr/seance/film-286639/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//uk8Dpv85xJqanA9Kg71uifLl3BY.jpg",
         "sceances": {
+            "Fonsorbes": 96008,
             "Toulouse": 96373,
             "Paris": 115755,
             "Paris 5e arrondissement": 115760
@@ -2719,7 +2626,6 @@
             "Bordeaux": 96943,
             "Tours": 98662,
             "Brest": 95171,
-            "LES MENUIRES": 115423,
             "Avignon": 119251,
             "La Roche-sur-Yon": 119580,
             "Limoges": 120079,
@@ -2732,7 +2638,8 @@
             "Toulouse": 96373,
             "Grenoble": 98857,
             "Saint-Herblain": 101240,
-            "Nancy": 105434
+            "Nancy": 105434,
+            "Le Mans": 114889
         }
     },
     {
@@ -2747,9 +2654,7 @@
         "sceances": {
             "Paris": 115755,
             "Marseille": 87914,
-            "LES MENUIRES": 115423,
             "Avignon": 119251,
-            "Montpellier": 97612,
             "Nantes": 101187,
             "Lamastre": 85557,
             "Les Vans": 85762,
@@ -2765,7 +2670,9 @@
             "Orry-la-Ville": 108759,
             "Bort-l'Étang": 110446,
             "Sugères": 110824,
-            "Vernet-la-Varenne": 110849
+            "Vernet-la-Varenne": 110849,
+            "Biarritz": 111014,
+            "LES MENUIRES": 115423
         }
     },
     {
@@ -2784,6 +2691,7 @@
             "Les Ollières-sur-Eyrieux": 85595,
             "Les Vans": 85762,
             "Marennes": 89721,
+            "Neuvic": 90457,
             "Saint-Paul-Trois-Châteaux": 93951,
             "Chinon": 98477,
             "Villard-Bonnot": 99201,
@@ -2797,8 +2705,7 @@
             "Saint-Hilaire-la-Palud": 117618,
             "Rabastens": 118756,
             "Le Pradet": 119155,
-            "Gérardmer": 120397,
-            "Viry-Châtillon": 121514
+            "Gérardmer": 120397
         }
     },
     {
@@ -2818,6 +2725,7 @@
             "Gourdon": 101815,
             "Villeneuve-d'Ascq": 107615,
             "Paris 4e arrondissement": 115759,
+            "Gérardmer": 120397,
             "Guichen": 97913,
             "Pontchâteau": 101207,
             "Paris 6e arrondissement": 115761,
@@ -2845,23 +2753,23 @@
             "Lyon": 113315,
             "Marseille": 87914,
             "Quimper": 95372,
-            "Clermont-Ferrand": 110514,
             "Châtellerault": 119762,
             "Douarnenez": 95198,
             "Montpellier": 97612,
             "Nantes": 101187,
-            "Ajaccio": 90602,
             "Toulouse": 96373,
-            "Albi": 118540,
             "Saint-Genis-Pouilly": 83545,
             "Saint-Quentin": 84346,
             "Vichy": 84799,
             "Barcelonnette": 84829,
             "Forcalquier": 84896,
-            "L' Argentière-la-Bessée": 85061,
             "Briançon": 85077,
             "Nice": 85327,
-            "Roquefort-les-Pins": 85344
+            "Roquefort-les-Pins": 85344,
+            "Carcassonne": 87154,
+            "Castelnaudary": 87161,
+            "Aix-en-Provence": 87860,
+            "Saint-Martin-de-Crau": 87956
         }
     },
     {
@@ -2883,7 +2791,6 @@
             "Montpellier": 97612,
             "Agen": 102029,
             "Dijon": 91241,
-            "Toulouse": 96373,
             "Gex": 83370,
             "Saint-Quentin": 84346,
             "Embrun": 85098,
@@ -2894,7 +2801,8 @@
             "Marseille 6e arrondissement": 87984,
             "Hérouville-Saint-Clair": 88377,
             "Marennes": 89721,
-            "Montignac": 92710
+            "Saint-Astier": 92789,
+            "Valence": 93989
         }
     },
     {
@@ -2942,12 +2850,16 @@
         "sceances": {
             "Paris": 115755,
             "Paris 6e arrondissement": 115761,
+            "Marseille": 87914,
             "Lyon": 113315,
             "Paris 5e arrondissement": 115760,
             "Vichy": 84799,
             "Manosque": 84919,
+            "Roquefort-les-Pins": 85344,
             "Fos-sur-Mer": 87898,
-            "Marseille": 87914,
+            "Marseille 16e arrondissement": 87994,
+            "Saint-Paul-Trois-Châteaux": 93951,
+            "Quimper": 95372,
             "Saint-Gaudens": 96301,
             "Frontignan": 97548,
             "Châteauroux": 98200,
@@ -2956,11 +2868,7 @@
             "Hauteville-sur-Mer": 103162,
             "Thionville": 107175,
             "Villeneuve-d'Ascq": 107615,
-            "Senlis": 108887,
-            "Clermont-Ferrand": 110514,
-            "Lyon 9e arrondissement": 113498,
-            "Chelles": 116645,
-            "Poix-de-Picardie": 118335
+            "Senlis": 108887
         }
     },
     {
@@ -2978,9 +2886,7 @@
             "Grasse": 85308,
             "Canet-en-Roussillon": 111982,
             "Barjols": 119069,
-            "Lorgues": 119129,
-            "Paris": 115755,
-            "Paris 10e arrondissement": 115765
+            "Lorgues": 119129
         }
     },
     {
@@ -3035,13 +2941,31 @@
         "url": "https://www.allocine.fr/seance/film-298698/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//iaVAERKy9RSvgMPqvArAh4GuRsn.jpg",
         "sceances": {
-            "Paris": 115755,
             "Metz": 106969,
             "Villeneuve-d'Ascq": 107615,
             "La Roche-sur-Yon": 119580,
             "Bain-de-Bretagne": 97800,
-            "Paris 5e arrondissement": 115760,
-            "Paris 10e arrondissement": 115765
+            "La Ferté-Macé": 109144,
+            "Paris": 115755,
+            "Paris 5e arrondissement": 115760
+        }
+    },
+    {
+        "name": "Une belle course",
+        "critiquePress": 3.1,
+        "spectateur": 3.9,
+        "date": "21 septembre 2022",
+        "score": 2288.854885988743,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-292290/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//akbbDgV5L4h5k0zQ9Nk3n6bfoTi.jpg",
+        "sceances": {
+            "Sarre-Union": 112616,
+            "Civray": 119774,
+            "Châteauneuf-sur-Charente": 89169,
+            "Thorens-Glières": 115700,
+            "Le Poiré-sur-Vie": 119568,
+            "Guémené-sur-Scorff": 106322
         }
     },
     {
@@ -3062,9 +2986,21 @@
             "Toulouse": 96373,
             "Charbonnières-les-Bains": 113236,
             "Le Mans": 114889,
-            "Chambéry": 115157,
-            "Paris 6e arrondissement": 115761,
-            "Paris": 115755
+            "Chambéry": 115157
+        }
+    },
+    {
+        "name": "Tori et Lokita",
+        "critiquePress": 3.5,
+        "spectateur": 3.6,
+        "date": "5 octobre 2022",
+        "score": 1866.2400000000005,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-290068/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//xbDs1ofrAJ7VsxrrxwO6AW2ahn7.jpg",
+        "sceances": {
+            "Évaux-les-Bains": 92232,
+            "Tinchebray": 109460
         }
     },
     {
@@ -3086,6 +3022,7 @@
             "Gérardmer": 120397,
             "Sarlat": 92934,
             "Bourgoin-Jallieu": 98735,
+            "Calais": 109678,
             "Thorens-Glières": 115700,
             "Privas": 85614,
             "Arles": 87863,
@@ -3096,8 +3033,7 @@
             "Équeurdreville-Hainneville": 103105,
             "Guémené-sur-Scorff": 106322,
             "Vannes": 106508,
-            "Albertville": 115105,
-            "Ugine": 115387
+            "Sain-Bel": 113363
         }
     },
     {
@@ -3131,6 +3067,7 @@
         "poster": "https://image.tmdb.org/t/p/w500//c0c95q5sqTRUAxRPb4VWdwurXqp.jpg",
         "sceances": {
             "Saint-Michel-Chef-Chef": 101260,
+            "Villarodin-Bourget": 115405,
             "Châtellerault": 119762,
             "Gagny": 121582,
             "Caen": 88168,
@@ -3139,7 +3076,8 @@
             "Montélimar": 93827,
             "Toulouse": 96373,
             "Lans-en-Vercors": 98874,
-            "Vannes": 106508
+            "Vannes": 106508,
+            "La Ferté-Macé": 109144
         }
     },
     {
@@ -3152,7 +3090,6 @@
         "url": "https://www.allocine.fr/seance/film-44445/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
         "sceances": {
-            "Nice": 85327,
             "Sarlat": 92934
         }
     },
@@ -3223,6 +3160,23 @@
         }
     },
     {
+        "name": "Salvatore Giuliano",
+        "critiquePress": 3.1,
+        "spectateur": null,
+        "date": "1 mars 1963",
+        "score": 1298.5832427355551,
+        "language": "it",
+        "url": "https://www.allocine.fr/seance/film-3076/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//uaFTCD0y2MEccTFyHOHj6IrwyZ.jpg",
+        "sceances": {
+            "Aix-en-Provence": 87860,
+            "Bordeaux": 96943,
+            "Montpellier": 97612,
+            "Lyon": 113315,
+            "Lyon 8e arrondissement": 113497
+        }
+    },
+    {
         "name": "Ma vache et moi",
         "critiquePress": 3.5,
         "spectateur": null,
@@ -3239,7 +3193,6 @@
             "Martigues": 87915,
             "Hérouville-Saint-Clair": 88377,
             "Chasseneuil-sur-Bonnieure": 89164,
-            "Redon": 98022,
             "Orléans": 101569,
             "Lanslebourg-Mont-Cenis": 115231,
             "Boulogne-Billancourt": 121532,
@@ -3252,7 +3205,8 @@
             "Nîmes": 95640,
             "Montpellier": 97612,
             "La Turballe": 101289,
-            "Bayonne": 110994
+            "Bayonne": 110994,
+            "Fourneaux": 115208
         }
     },
     {
@@ -3268,8 +3222,7 @@
             "Blagnac": 95890,
             "Paray-le-Monial": 114459,
             "Sainte-Geneviève-des-Bois": 121473,
-            "Tours": 98662,
-            "Meschers-sur-Gironde": 89732
+            "Tours": 98662
         }
     },
     {
@@ -3347,10 +3300,8 @@
             "Gréoux-les-Bains": 84902,
             "Roquefort-les-Pins": 85344,
             "Les Vans": 85762,
-            "Marseille": 87914,
             "Martigues": 87915,
             "Saint-Rémy-de-Provence": 87959,
-            "Marseille 6e arrondissement": 87984,
             "Riom-ès-Montagnes": 88970,
             "Corte": 90693,
             "Marignana": 90750,
@@ -3361,7 +3312,9 @@
             "Uzès": 95785,
             "Cazères-sur-Garonne": 95956,
             "Villefranche-de-Lauragais": 96400,
-            "Plaisance": 96729
+            "Plaisance": 96729,
+            "Vic-Fezensac": 96872,
+            "Chinon": 98477
         }
     },
     {
@@ -3383,9 +3336,7 @@
             "Lyon": 113315,
             "Vélizy-Villacoublay": 117329,
             "Jaux": 108606,
-            "Lyon 2e arrondissement": 113491,
-            "Libourne": 97122,
-            "Bergerac": 92462
+            "Lyon 2e arrondissement": 113491
         }
     },
     {
@@ -3446,9 +3397,7 @@
         "url": "https://www.allocine.fr/seance/film-299437/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//1Haa21CKzKWDzOOgwTfiy3Uk6h6.jpg",
         "sceances": {
-            "Ajaccio": 90602,
             "Toulouse": 96373,
-            "Semur-en-Auxois": 91613,
             "Buis-les-Baronnies": 93694,
             "Saint-Florent-le-Vieil": 102826,
             "Questembert": 106432,
@@ -3457,16 +3406,18 @@
             "Vitrolles": 87976,
             "Eysines": 97041,
             "Montpellier": 97612,
-            "Blois": 100199,
             "Nantes": 101187,
             "Verdun-sur-Garonne": 119052,
             "Massy": 121427,
             "Le Teil": 85747,
             "Falaise": 88308,
             "Angoulême": 89095,
+            "Ajaccio": 90602,
             "Saint-Herblain": 101240,
             "Figeac": 101790,
-            "Saint-Jean-Pied-de-Port": 111377
+            "Saint-Jean-Pied-de-Port": 111377,
+            "Le Mans": 114889,
+            "Créteil": 121622
         }
     },
     {
@@ -3482,7 +3433,6 @@
             "Quimper": 95372,
             "Vitrolles": 87976,
             "Caen": 88168,
-            "La Couarde-sur-Mer": 89624,
             "Saint-Étienne": 100691
         }
     },
@@ -3497,9 +3447,7 @@
         "poster": "https://image.tmdb.org/t/p/w500//zYaj1K1pnEX9HLPM6wcAOy9HMfd.jpg",
         "sceances": {
             "Nice": 85327,
-            "Valence": 93989,
             "Blagnac": 95890,
-            "Poissy": 117276,
             "Tours": 98662,
             "Pierre-Bénite": 113344
         }
@@ -3582,16 +3530,16 @@
             "Paris 6e arrondissement": 115761,
             "Rouen": 116312,
             "Grenoble": 98857,
+            "Saint-Genis-Pouilly": 83545,
             "Forcalquier": 84896,
+            "L' Argentière-la-Bessée": 85061,
             "Beaulieu-sur-Mer": 85250,
             "Cannes": 85268,
             "Aubenas": 85447,
             "Carcassonne": 87154,
             "Aix-en-Provence": 87860,
             "Fos-sur-Mer": 87898,
-            "Martigues": 87915,
-            "Surgères": 89935,
-            "Étables-sur-Mer": 91783
+            "Martigues": 87915
         }
     },
     {
@@ -3654,31 +3602,9 @@
         "url": "https://www.allocine.fr/seance/film-29144/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//eOoCzH0MqeGr2taUZO4SwG416PF.jpg",
         "sceances": {
-            "Nice": 85327,
             "Martigues": 87915,
             "Valence": 93989,
-            "Pontarlier": 93458,
-            "Halluin": 107880,
-            "Sainte-Geneviève-des-Bois": 121473
-        }
-    },
-    {
-        "name": "Krypto et les Super-Animaux",
-        "critiquePress": 3.4,
-        "spectateur": 3.2,
-        "date": "27 juillet 2022",
-        "score": 716.2572564146237,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-266572/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
-        "sceances": {
-            "Arcachon": 96889,
-            "Libourne": 97122,
-            "La Teste-de-Buch": 97402,
-            "Bergerac": 92462,
-            "Nantes": 101187,
-            "Vélizy-Villacoublay": 117329,
-            "Limoges": 120079
+            "Halluin": 107880
         }
     },
     {
@@ -3691,7 +3617,6 @@
         "url": "https://www.allocine.fr/seance/film-293321/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//yEcTdLTRA9kAKopqviKsYcq4gkl.jpg",
         "sceances": {
-            "L' Argentière-la-Bessée": 85061,
             "Veynes": 85228,
             "Poix-de-Picardie": 118335,
             "Pouzauges": 119572,
@@ -3700,7 +3625,6 @@
             "Nantes": 101187,
             "Saint-Macaire-en-Mauges": 102851,
             "Paray-le-Monial": 114459,
-            "Fréjus": 119118,
             "La Roche-Posay": 119903,
             "Léguevin": 96110,
             "Saint-Palais": 111385,
@@ -3742,22 +3666,22 @@
             "Valdahon": 93574,
             "Lasserre": 96096,
             "Saint-Lô": 103430,
+            "Villarodin-Bourget": 115405,
             "Frangy": 115554,
             "Oissel": 116256,
             "Labruguière": 118656,
             "Châtellerault": 119762,
             "Limoges": 120079,
             "Ris-Orangis": 121463,
-            "Enchastrayes": 84881,
-            "Bain-de-Bretagne": 97800,
             "Charlieu": 100527,
             "La Turballe": 101289,
-            "Ile de Groix": 106318,
             "Gravelines": 107874,
             "Lomme": 107956,
             "Orthez": 111322,
             "GOURETTE": 111457,
-            "Cauterets": 111594
+            "Cauterets": 111594,
+            "Loudenvielle": 111737,
+            "Saint-Lary-Soulan": 111843
         }
     },
     {
@@ -3819,26 +3743,11 @@
             "Antony": 121528,
             "Saint-Ouen": 121601,
             "Marseille 1er arrondissement": 87979,
-            "Lannion": 91840,
             "La Souterraine": 92331,
             "Huelgoat": 95232,
             "Montpellier": 97612,
-            "Plélan-le-Grand": 98009
-        }
-    },
-    {
-        "name": "Le Grinch",
-        "critiquePress": 3.1,
-        "spectateur": 3.4,
-        "date": "28 novembre 2018",
-        "score": 611.1215695363277,
-        "language": "en",
-        "url": "https://www.allocine.fr/seance/film-218476/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//stAu0oF6dYDhV5ssbmFUYkQPtCP.jpg",
-        "sceances": {
-            "Mimizan": 100026,
-            "MEUDON LA FORET": 121564,
-            "Jaux": 108606
+            "Plélan-le-Grand": 98009,
+            "Soustons": 100152
         }
     },
     {
@@ -3856,6 +3765,21 @@
             "Orléans": 101569,
             "Paris 5e arrondissement": 115760,
             "Paris 10e arrondissement": 115765
+        }
+    },
+    {
+        "name": "Le Grinch",
+        "critiquePress": 3.1,
+        "spectateur": 3.4,
+        "date": "28 novembre 2018",
+        "score": 611.1215695363277,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-218476/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//stAu0oF6dYDhV5ssbmFUYkQPtCP.jpg",
+        "sceances": {
+            "Mimizan": 100026,
+            "MEUDON LA FORET": 121564,
+            "Jaux": 108606
         }
     },
     {
@@ -3923,12 +3847,11 @@
             "Lyon": 113315,
             "Toulouse": 96373,
             "Montpellier": 97612,
+            "Nantes": 101187,
             "Marseille": 87914,
             "Orléans": 101569,
             "Clermont-Ferrand": 110514,
-            "Avignon": 119251,
             "Bordeaux": 96943,
-            "Nantes": 101187,
             "Gex": 83370,
             "La Ferté-Milon": 83963,
             "Gannat": 84607,
@@ -3937,9 +3860,27 @@
             "Castelnaudary": 87161,
             "Fos-sur-Mer": 87898,
             "Martigues": 87915,
+            "Noves": 87925,
             "Marseille 16e arrondissement": 87994,
             "Hérouville-Saint-Clair": 88377,
             "Fouras": 89671
+        }
+    },
+    {
+        "name": "Riposte féministe",
+        "critiquePress": 3.4,
+        "spectateur": 3,
+        "date": "9 novembre 2022",
+        "score": 518.7109509371323,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-300874/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//bs5XuWIwf2AQZ2fiID0vWFQOyEe.jpg",
+        "sceances": {
+            "Villeneuve-d'Ascq": 107615,
+            "Saint-Julien-du-Sault": 121080,
+            "Massy": 121427,
+            "Toulouse": 96373,
+            "L' Union": 96379
         }
     },
     {
@@ -3955,10 +3896,7 @@
             "La Rochelle": 89802,
             "Blagnac": 95890,
             "Agen": 102029,
-            "Nérac": 102222,
-            "Tours": 98662,
-            "Marmande": 102184,
-            "Aiguillon": 102032
+            "Tours": 98662
         }
     },
     {
@@ -3971,22 +3909,22 @@
         "sceances": {
             "Sézanne": 104087,
             "Saint-Gratien": 121813,
+            "Villeurbanne": 113456,
             "Paray-le-Monial": 114459,
             "Seynod": 115687
         }
     },
     {
-        "name": "Arthur et la magie de Noël",
+        "name": "Permanent Vacation",
         "critiquePress": 2.9,
         "spectateur": null,
-        "date": "14 novembre 2018",
+        "date": "25 avril 1984",
         "score": 506.12147993574087,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-263851/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//nj2ZLyaCqgBtcZY5b91pIGWvYWA.jpg",
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-15240/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//sISTkyG2cDOiox1Z4QvQf6r8NGf.jpg",
         "sceances": {
-            "La Rochelle": 89802,
-            "Belleville": 113211
+            "Le Pouliguen": 101213
         }
     },
     {
@@ -4079,7 +4017,6 @@
             "Lyon": 113315,
             "Rouen": 116312,
             "Chessy": 116648,
-            "Aulnay-sous-Bois": 121570,
             "Guise": 84017,
             "Saint-Quentin": 84346,
             "Moulins": 84679,
@@ -4088,7 +4025,8 @@
             "Cannes": 85268,
             "Carcassonne": 87154,
             "Martigues": 87915,
-            "Les Pennes-Mirabeau": 87930
+            "Les Pennes-Mirabeau": 87930,
+            "Mondeville": 88486
         }
     },
     {
@@ -4216,14 +4154,14 @@
             "Paris 13e arrondissement": 115768,
             "Montigny-le-Bretonneux": 117252,
             "Dijon": 91241,
+            "L' Argentière-la-Bessée": 85061,
             "Sedan": 86172,
             "Saint-Girons": 86541,
             "Castelnaudary": 87161,
             "Limoux": 87291,
             "NARBONNE PLAGE": 87533,
             "Carry-le-Rouet": 87880,
-            "Les Pennes-Mirabeau": 87930,
-            "Saint-Martin-de-Crau": 87956
+            "Les Pennes-Mirabeau": 87930
         }
     },
     {
@@ -4237,15 +4175,12 @@
         "poster": "https://image.tmdb.org/t/p/w500//iKJiUZHANl5XloAYAoFWQYgJp9H.jpg",
         "sceances": {
             "Strasbourg": 112664,
-            "Paris": 115755,
             "Fos-sur-Mer": 87898,
             "Martigues": 87915,
             "Ruffec": 89371,
-            "Aucamville": 95843,
             "Auterive": 95854,
             "Léognan": 97117,
             "Orléans": 101569,
-            "Veules-les-Roses": 116502,
             "Mitry-Mory": 116830,
             "Labruguière": 118656,
             "Civray": 119774,
@@ -4256,7 +4191,10 @@
             "Pessac": 97196,
             "Montpellier": 97612,
             "Boën": 100495,
-            "Dunkerque": 107786
+            "Dunkerque": 107786,
+            "Mulhouse": 113016,
+            "Rouen": 116312,
+            "Chilly-Mazarin": 121370
         }
     },
     {
@@ -4269,19 +4207,9 @@
         "url": "https://www.allocine.fr/seance/film-310904/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//if1EDRozDB2LJ8IO2d7lzt46Ahh.jpg",
         "sceances": {
-            "Nice": 85327,
             "Villeneuve-la-Garenne": 121563,
-            "Arcueil": 121612,
-            "Bordeaux": 96943,
-            "Montpellier": 97612,
-            "Nantes": 101187,
-            "Lomme": 107956,
-            "Mulhouse": 113016,
-            "Lyon": 113315,
-            "Rouen": 116312,
             "Paris": 115755,
             "Paris 19e arrondissement": 115774,
-            "Torcy": 117003,
             "Saint-Denis": 121600
         }
     },
@@ -4435,12 +4363,12 @@
             "Saint-Florent-sur-Cher": 90221,
             "Nuits-Saint-Georges": 91474,
             "Loudéac": 91862,
+            "Thiviers": 92965,
             "Nyons": 93849,
             "Valence": 93989,
             "Brest": 95171,
-            "Revel": 96269,
-            "Saint-Gaudens": 96301,
-            "Châteauroux": 98200
+            "Uzès": 95785,
+            "Auzielle": 95857
         }
     },
     {
@@ -4459,6 +4387,17 @@
             "Torcy": 117003,
             "Épinay-sur-Seine": 121581
         }
+    },
+    {
+        "name": "Kansas City",
+        "critiquePress": 2.6,
+        "spectateur": null,
+        "date": "15 mai 1996",
+        "score": 293.1780957172607,
+        "language": "en",
+        "url": "https://www.allocine.fr/seance/film-14662/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//6feBsNmMDAFoIzZlZRLw00BhJXI.jpg",
+        "sceances": {}
     },
     {
         "name": "Une comédie romantique",
@@ -4501,12 +4440,10 @@
             "Bordeaux": 96943,
             "Montpellier": 97612,
             "Nantes": 101187,
-            "Orléans": 101569,
             "Villeneuve-d'Ascq": 107615,
             "Caen": 88168,
             "Saint-Étienne": 100691,
             "Strasbourg": 112664,
-            "Mulhouse": 113016,
             "Paris 6e arrondissement": 115761,
             "Paris 13e arrondissement": 115768,
             "Rouen": 116312,
@@ -4514,7 +4451,9 @@
             "Chambéry": 115157,
             "Paris 18e arrondissement": 115773,
             "Ambérieu-en-Bugey": 83207,
-            "Gex": 83370
+            "Gex": 83370,
+            "Saint-Genis-Pouilly": 83545,
+            "Gannat": 84607
         }
     },
     {
@@ -4538,6 +4477,7 @@
             "Saint-Genis-Pouilly": 83545,
             "Saint-Quentin": 84346,
             "Manosque": 84919,
+            "L' Argentière-la-Bessée": 85061,
             "Carcassonne": 87154,
             "Carry-le-Rouet": 87880,
             "Fos-sur-Mer": 87898,
@@ -4546,8 +4486,7 @@
             "Beaune": 91065,
             "Semur-en-Auxois": 91613,
             "Saint-Astier": 92789,
-            "Brest": 95171,
-            "Auterive": 95854
+            "Brest": 95171
         }
     },
     {
@@ -4560,23 +4499,7 @@
         "url": "https://www.allocine.fr/seance/film-249794/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//5nlpxvEbFghORtYWXT1JB8GoHNw.jpg",
         "sceances": {
-            "Paris 13e arrondissement": 115768,
-            "Cholet": 102651,
-            "Paris": 115755
-        }
-    },
-    {
-        "name": "Jack Mimoun et les secrets de Val Verde",
-        "critiquePress": 3.3,
-        "spectateur": 2.7,
-        "date": "12 octobre 2022",
-        "score": 263.8232573928162,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-271293/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//vWx3Hi7DZ7VWyjWVf9gySG6Lbq4.jpg",
-        "sceances": {
-            "Avignon": 119251,
-            "Blagnac": 95890
+            "Cholet": 102651
         }
     },
     {
@@ -4615,6 +4538,7 @@
             "Marseille": 87914,
             "Bordeaux": 96943,
             "Saint-Étienne": 100691,
+            "Nantes": 101187,
             "Paris 6e arrondissement": 115761,
             "Rouen": 116312,
             "Toulouse": 96373,
@@ -4629,7 +4553,6 @@
             "Blagnac": 95890,
             "Montpellier": 97612,
             "Rennes": 98024,
-            "Nantes": 101187,
             "Strasbourg": 112664
         }
     },
@@ -4663,7 +4586,7 @@
             "Châtel": 115487,
             "Gonfreville-l'Orcher": 116077,
             "Rouen": 116312,
-            "Montdidier": 118267
+            "Pranzac": 89348
         }
     },
     {
@@ -4681,7 +4604,6 @@
             "Lyon 1er arrondissement": 113490,
             "Arcueil": 121612,
             "Caen": 88168,
-            "La Rochelle": 89802,
             "Montpellier": 97612,
             "La Haye-du-Puits": 103167,
             "Mourenx": 111302,
@@ -4691,8 +4613,7 @@
             "Montreuil": 121588,
             "Équeurdreville-Hainneville": 103105,
             "Le Mans": 114889,
-            "Paris": 115755,
-            "Clermont-Ferrand": 110514
+            "Paris": 115755
         }
     },
     {
@@ -4708,6 +4629,7 @@
             "Arcueil": 121612,
             "Strasbourg": 112664,
             "Guémené-sur-Scorff": 106322,
+            "Orbey": 113041,
             "Paris": 115755
         }
     },
@@ -4754,9 +4676,6 @@
         "url": "https://www.allocine.fr/seance/film-306664/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//zFrFcSRKZVquY5MGunj03banzaH.jpg",
         "sceances": {
-            "Paris": 115755,
-            "Paris 19e arrondissement": 115774,
-            "Torcy": 117003,
             "Épinay-sur-Seine": 121581,
             "Saint-Denis": 121600
         }
@@ -4782,7 +4701,6 @@
             "Brest": 95171,
             "Besse-et-Saint-Anastaise": 110439,
             "Pau": 111337,
-            "LES MENUIRES": 115423,
             "Limoges": 120079,
             "Brétigny-sur-Orge": 121349,
             "Nîmes": 95640,
@@ -4791,7 +4709,8 @@
             "Strasbourg": 112664,
             "Mulhouse": 113016,
             "Lyon 6e arrondissement": 113495,
-            "Paris 13e arrondissement": 115768
+            "Paris 13e arrondissement": 115768,
+            "Rouen": 116312
         }
     },
     {
@@ -4816,6 +4735,7 @@
             "Chasseneuil-sur-Bonnieure": 89164,
             "Brest": 95171,
             "Quimper": 95372,
+            "Villefranche-de-Lauragais": 96400,
             "Montbazon": 98559,
             "Saint-Martin-d'Hères": 99084,
             "Orléans": 101569,
@@ -4823,8 +4743,7 @@
             "Thionville": 107175,
             "Villeneuve-d'Ascq": 107615,
             "Clermont-Ferrand": 110514,
-            "Biarritz": 111014,
-            "Paris 1er arrondissement": 115756
+            "Biarritz": 111014
         }
     },
     {
@@ -4837,6 +4756,7 @@
         "url": "https://www.allocine.fr/seance/film-292719/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//rugyJdeoJm7cSJL1q4jBpTNbxyU.jpg",
         "sceances": {
+            "Val-de-Reuil": 94723,
             "Oissel": 116256,
             "Vélizy-Villacoublay": 117329,
             "Lencloître": 119824,
@@ -4871,9 +4791,9 @@
             "Arcueil": 121612,
             "Douarnenez": 95198,
             "Nîmes": 95640,
-            "Blagnac": 95890,
             "Nantes": 101187,
-            "Lyon 6e arrondissement": 113495
+            "Lyon 6e arrondissement": 113495,
+            "Paris 13e arrondissement": 115768
         }
     },
     {
@@ -4890,39 +4810,6 @@
             "Les Allues": 115109,
             "Dieppe": 115990,
             "La Ferté-Macé": 109144
-        }
-    },
-    {
-        "name": "Les Engagés",
-        "critiquePress": 3.2,
-        "spectateur": 2.4,
-        "date": "16 novembre 2022",
-        "score": 125.52512374708414,
-        "language": "fr",
-        "url": "https://www.allocine.fr/seance/film-290740/pres-de-115755/",
-        "poster": "https://image.tmdb.org/t/p/w500//ebsYcVH0Ulrm3qea0pAU5sD49Gw.jpg",
-        "sceances": {
-            "Paris": 115755,
-            "Marseille": 87914,
-            "Noves": 87925,
-            "Chasseneuil-sur-Bonnieure": 89164,
-            "Brest": 95171,
-            "Labège": 96074,
-            "Lasserre": 96096,
-            "Lectoure": 96618,
-            "Orléans": 101569,
-            "Thillois": 104118,
-            "Clamecy": 107361,
-            "Frangy": 115554,
-            "Saint-Fargeau-Ponthierry": 116942,
-            "Gap": 85113,
-            "Caen": 88168,
-            "Lannion": 91840,
-            "Carbon-Blanc": 96976,
-            "Plélan-le-Grand": 98009,
-            "Rennes": 98024,
-            "Legé": 101159,
-            "Blénod-lès-Pont-à-Mousson": 105119
         }
     },
     {
@@ -4956,6 +4843,39 @@
             "Ajaccio": 90602,
             "Audincourt": 93031,
             "Vannes": 106508
+        }
+    },
+    {
+        "name": "Les Engagés",
+        "critiquePress": 3.2,
+        "spectateur": 2.4,
+        "date": "16 novembre 2022",
+        "score": 125.52512374708414,
+        "language": "fr",
+        "url": "https://www.allocine.fr/seance/film-290740/pres-de-115755/",
+        "poster": "https://image.tmdb.org/t/p/w500//ebsYcVH0Ulrm3qea0pAU5sD49Gw.jpg",
+        "sceances": {
+            "Paris": 115755,
+            "Marseille": 87914,
+            "Noves": 87925,
+            "Chasseneuil-sur-Bonnieure": 89164,
+            "Neuvic": 90457,
+            "Brest": 95171,
+            "Labège": 96074,
+            "Lasserre": 96096,
+            "Lectoure": 96618,
+            "Orléans": 101569,
+            "Thillois": 104118,
+            "Clamecy": 107361,
+            "Frangy": 115554,
+            "Saint-Fargeau-Ponthierry": 116942,
+            "Gap": 85113,
+            "Caen": 88168,
+            "Lannion": 91840,
+            "Carbon-Blanc": 96976,
+            "Plélan-le-Grand": 98009,
+            "Rennes": 98024,
+            "Legé": 101159
         }
     },
     {
@@ -5031,7 +4951,6 @@
         "url": "https://www.allocine.fr/seance/film-299561/pres-de-115755/",
         "poster": "https://image.tmdb.org/t/p/w500//tPOakxQmxnqs7kHGGRIO2p38tw1.jpg",
         "sceances": {
-            "Marignana": 90750,
             "Pornic": 101209,
             "Saint-Martin-du-Fouilloux": 102856,
             "Talmont-Saint-Hilaire": 119672,
@@ -5118,7 +5037,6 @@
             "Saint-Martin-de-Crau": 87956,
             "Marignana": 90750,
             "Mayenne": 104910,
-            "Villarodin-Bourget": 115405,
             "Delle": 121250,
             "Chilly-Mazarin": 121370,
             "Goderville": 116074
@@ -5147,14 +5065,14 @@
             "Strasbourg": 112664,
             "Lyon 6e arrondissement": 113495,
             "Paris 13e arrondissement": 115768,
+            "Bobigny": 121573,
             "Saint-Denis": 121963,
             "Tours": 98662,
             "Saint-Herblain": 101240,
             "Albertville": 115105,
             "Annecy": 115435,
             "Le Grand-Bornand": 115559,
-            "Paris 12e arrondissement": 115767,
-            "Aulnay-sous-Bois": 121570
+            "Paris 12e arrondissement": 115767
         }
     }
 ]

@@ -1,0 +1,6 @@
+<app-flag
+  *ngFor="let lang of availableLanguages"
+  [lang]="lang"
+  (click)="toggleFilter(lang)"
+  [ngClass]="{ selected: isLangFiltered(lang) }"
+></app-flag>

@@ -12,10 +12,7 @@ export class ImagePreloadDirective {
   @Input() default!: string;
 
   updateUrl() {
-    console.log('ko');
     this.src = 'assets/images/default.jpg';
   }
-  load() {
-    console.log('ok');
-  }
+  load() {}
 }

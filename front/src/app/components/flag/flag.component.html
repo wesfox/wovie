@@ -1,0 +1,4 @@
+<img *ngIf="imgAvailable; else default" [src]="imgPath" class="interaction" />
+<ng-template #default
+  ><div class="defaultFlag interaction">{{ lang }}</div></ng-template
+>

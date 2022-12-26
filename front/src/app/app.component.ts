@@ -1,6 +1,8 @@
 import { Component, HostListener, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Movie } from './interface/movie';
+import { BehaviorSubject, map, Observable, tap } from 'rxjs';
+import { MoviesService } from './service/movies.service';
 
 @Component({
   selector: 'app-root',
@@ -8,39 +10,22 @@ import { Movie } from './interface/movie';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent implements OnInit {
-  private URL = '../assets/film_a_voir.json';
+  public moviesLoaded$: Observable<Movie[]>;
 
-  public movies: Movie[] = [];
-
-  private allMovies: Movie[] = [];
-  private loaded = 20;
-
-  loadMovies = () => {
-    this.movies = this.allMovies
-      .filter((movie) => Object.keys(movie.sceances).includes('Paris'))
-      .sort((a, b) => b.score - a.score)
-      .slice(0, this.loaded);
-  };
-
-  constructor(private httpClient: HttpClient) {
-    httpClient.get(this.URL).subscribe((movies) => {
-      this.allMovies = movies as Movie[];
-      this.loadMovies();
-    });
+  constructor(private moviesService: MoviesService) {
+    this.moviesLoaded$ = this.moviesService.getMoviesLoaded();
   }
 
-  ngOnInit() {}
+  ngOnInit(): void {}
 
-  @HostListener('window:scroll', ['$event'])
+  @HostListener('window:scroll', ['Subjectevent'])
   onWindowScroll() {
     let distanceToBottom =
       document.documentElement.offsetHeight -
       (document.documentElement.scrollTop || document.body.scrollTop) -
       window.innerHeight;
     if (distanceToBottom < 800) {
-      this.loaded += 20;
-      this.loadMovies();
-      console.log(document.documentElement.offsetHeight);
+      this.moviesService.loadMoreMovies();
     }
   }
 }

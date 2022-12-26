@@ -2,6 +2,10 @@
   <h1>Wovie</h1>
   <h2>Films à voir cette semaine à Paris</h2>
 </header>
+<app-language-filter> </app-language-filter>
 <div class="movie-list">
-  <app-movie-box *ngFor="let movie of movies" [movie]="movie"></app-movie-box>
+  <app-movie-box
+    *ngFor="let movie of moviesLoaded$ | async"
+    [movie]="movie"
+  ></app-movie-box>
 </div>

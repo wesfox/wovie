@@ -1,0 +1,35 @@
+:host(:hover) {
+  cursor: pointer;
+  .interaction {
+    opacity: 0.8;
+  }
+}
+:host {
+  position: relative;
+  img {
+    height: 30px;
+    border-radius: 2px;
+    min-width: 40px;
+  }
+  .defaultFlag {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    border-radius: 2px;
+    width: 40px;
+    background-color: beige;
+  }
+  .interaction {
+    opacity: 0.6;
+  }
+  &.selected .interaction {
+    opacity: 1;
+  }
+  &.selected::before {
+    content: 'reset';
+    position: absolute;
+    top: -18px;
+    left: calc(50% - 15px);
+  }
+}
