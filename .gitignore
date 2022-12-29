@@ -28,4 +28,11 @@ build/
 # Misc
 .DS_Store
 
-generate-data/cache/*
+generate-data/cache/au-cinema/*
+!generate-data/cache/au-cinema/.gitkeep
+generate-data/cache/fiche-film/*
+!generate-data/cache/fiche-film/.gitkeep
+generate-data/cache/geo-sceance/*
+!generate-data/cache/geo-sceance/.gitkeep
+generate-data/cache/tmdb/*
+!generate-data/cache/tmdb/.gitkeep
