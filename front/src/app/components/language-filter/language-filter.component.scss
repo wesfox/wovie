@@ -2,9 +2,16 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  height: auto;
+  transition: height 0.5s ease-in-out;
+  overflow: hidden;
   app-flag {
     display: flex;
     flex-direction: row;
     padding: 2px;
+  }
+  &.hidden {
+    transition: height 0.5s ease-in-out;
+    height: 0px;
   }
 }

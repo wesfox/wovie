@@ -1,8 +1,11 @@
 <header>
   <h1>Wovie</h1>
-  <h2>Films à voir cette semaine à Paris</h2>
+  <div class="button" (click)="showLangFilter = !showLangFilter">
+    Filtrer par langues
+  </div>
 </header>
-<app-language-filter> </app-language-filter>
+<app-language-filter [ngClass]="{ hidden: !showLangFilter }">
+</app-language-filter>
 <div class="movie-list">
   <app-movie-box
     *ngFor="let movie of moviesLoaded$ | async"

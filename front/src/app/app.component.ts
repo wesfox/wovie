@@ -11,6 +11,7 @@ import { MoviesService } from './service/movies.service';
 })
 export class AppComponent implements OnInit {
   public moviesLoaded$: Observable<Movie[]>;
+  public showLangFilter = false;
 
   constructor(private moviesService: MoviesService) {
     this.moviesLoaded$ = this.moviesService.getMoviesLoaded();
