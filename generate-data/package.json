@@ -35,7 +35,7 @@
     "prettier": "prettier --config .prettierrc --write .",
     "test:watch": "jest --watch",
     "clean:cache": "rm ./cache/au-cinema/* ./cache/geo-sceance/*",
-    "fetch": "rm ./cache/au-cinema/* ./cache/geo-sceance/* && node build/allocine.js && node build/allocine_2.js && cp film_a_voir.json ../front/src/assets/"
+    "fetch": "rm ./cache/au-cinema/* ./cache/geo-sceance/*; node build/allocine.js && node build/allocine_2.js && cp film_a_voir.json ../front/src/assets/"
   },
   "author": "Jakub Synowiec <jsynowiec@users.noreply.github.com>",
   "license": "Apache-2.0",
