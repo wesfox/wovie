@@ -9,6 +9,7 @@ import { MovieBoxComponent } from './components/movie-box/movie-box.component';
 import { FlagComponent } from './components/flag/flag.component';
 import { LanguageFilterComponent } from './components/language-filter/language-filter.component';
 import { MoviesService } from './service/movies.service';
+import { DropdownSelectComponent } from './components/dropdown-select/dropdown-select.component';
 
 @NgModule({
   declarations: [
@@ -17,6 +18,7 @@ import { MoviesService } from './service/movies.service';
     ImagePreloadDirective,
     FlagComponent,
     LanguageFilterComponent,
+    DropdownSelectComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule],
   providers: [MoviesService],

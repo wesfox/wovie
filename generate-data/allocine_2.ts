@@ -72,9 +72,6 @@ async function getTmdbData(title: string, year: string) {
       tmdbAllData = [data[0]];
     }
     if (tmdbAllData.length == 0) {
-      // console.log(
-      //   title + ' has no results after filtering : ' + JSON.stringify(data),
-      // );
       tmdbAllData = [data[0]];
     }
   }
@@ -143,4 +140,4 @@ const output = parisMovies.map((movie) => ({
   sceances: movie.sceances,
 }));
 
-fs.writeFileSync('film_a_voir.json', JSON.stringify(output, undefined, 4));
+fs.writeFileSync('../film_a_voir.json', JSON.stringify(output, undefined, 4));

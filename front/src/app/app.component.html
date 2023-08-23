@@ -1,8 +1,10 @@
 <header>
   <h1>Wovie</h1>
-  <div class="button" (click)="showLangFilter = !showLangFilter">
-    Filtrer par langues
-  </div>
+  <app-dropdown-select
+    [options]="dateOption"
+    (optionSelected)="onReleaseDateSelected($event)"
+  ></app-dropdown-select>
+  <div class="button" (click)="toggleFilter()">Filtrer par langues</div>
 </header>
 <app-language-filter [ngClass]="{ hidden: !showLangFilter }">
 </app-language-filter>

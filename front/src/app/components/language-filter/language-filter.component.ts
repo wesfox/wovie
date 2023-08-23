@@ -1,7 +1,8 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { Observable } from 'rxjs';
-import { FilterType, MoviesService } from 'src/app/service/movies.service';
+import { MoviesService } from 'src/app/service/movies.service';
 import { Movie } from '../../interface/movie';
+import { FilterType } from 'src/app/service/filter.type';
 
 @Component({
   selector: 'app-language-filter',
@@ -12,16 +13,14 @@ export class LanguageFilterComponent implements OnInit {
   @Input() movies: Movie[] | null = [];
 
   public availableLanguages: string[] = [];
-  public moviesFiltered$: Observable<Movie[]>;
+  public allMovies$: Observable<Movie[]>;
 
   private filteredLanguages: Set<string> = new Set();
 
   constructor(private moviesService: MoviesService) {
-    this.moviesFiltered$ = this.moviesService.getMoviesFilteredBut(
-      FilterType.LANG,
-    );
+    this.allMovies$ = this.moviesService.getAllMovies();
 
-    this.moviesFiltered$.subscribe((movies) => {
+    this.allMovies$.subscribe((movies) => {
       this.availableLanguages = Array.from(
         new Set(movies.map((movie) => movie.language)),
       ).filter((l) => l);
@@ -29,20 +28,19 @@ export class LanguageFilterComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.moviesFiltered$.subscribe((movies) => {
-      this.availableLanguages = Array.from(
-        new Set(movies.map((movie) => movie.language)),
-      ).filter((l) => l);
-    });
+    this.moviesService
+      .getFilteredLang$()
+      .subscribe(
+        (langFilter) => (this.filteredLanguages = new Set(langFilter)),
+      );
   }
 
   toggleFilter(lang: string) {
     if (this.filteredLanguages.has(lang)) {
-      this.filteredLanguages.delete(lang);
+      this.moviesService.deleteFilter(lang, FilterType.LANG);
     } else {
-      this.filteredLanguages.add(lang);
+      this.moviesService.addFilter(lang, FilterType.LANG);
     }
-    this.moviesService.filterByLang(Array.from(this.filteredLanguages));
   }
 
   isLangFiltered(lang: string) {

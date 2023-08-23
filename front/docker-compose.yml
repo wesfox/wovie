@@ -1,7 +1,0 @@
-version: '3.3'
-services:
-  wovie-app:
-    container_name: wovie-container
-    build: .
-    ports:
-      - '9000:80'

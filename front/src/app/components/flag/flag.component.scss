@@ -26,10 +26,12 @@
   &.selected .interaction {
     opacity: 1;
   }
-  &.selected::before {
-    content: 'reset';
-    position: absolute;
-    top: -18px;
-    left: calc(50% - 15px);
+  &.selected img {
+    margin: -2px;
+    border: 2px solid rgba($color: #fff, $alpha: 0.8);
+  }
+  &.selected .defaultFlag {
+    margin: -2px;
+    border: 2px solid rgba($color: #fff, $alpha: 0.8);
   }
 }
