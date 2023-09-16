@@ -1,0 +1,32 @@
+<div
+  class="bg"
+  (click)="onCloseModaleClick()"
+  [ngClass]="{ displayed: displayed }"
+>
+  <div class="modale" (click)="$event.stopPropagation()">
+    <a (click)="onCloseModaleClick()" class="close">⨉</a>
+    <img
+      [src]="movie.poster"
+      class="poster"
+      ImagePreloadDirective
+      [default]="movie.name"
+    />
+    <div class="right-column">
+      <h2 class="title">{{ movie.name }}</h2>
+      <p class="synopsis">{{ movie.synopsis }}</p>
+      <p class="release-date">Date de sortie : {{ movie.date }}</p>
+      <div class="reviews">
+        <p class="spectator-review">
+          Note spectateur : {{ movie.spectateur }}/5
+        </p>
+        <p class="critic-review">Note critique : {{ movie.critiquePress }}/5</p>
+        <p class="wovie-rating">
+          Wovie Score : {{ wovieScore }} - {{ wovieScoreLabel }}
+        </p>
+      </div>
+      <a class="sceances" [href]="movie.url" target="_blank"
+        >Liste des scéances</a
+      >
+    </div>
+  </div>
+</div>

@@ -8,9 +8,15 @@
 </header>
 <app-language-filter [ngClass]="{ hidden: !showLangFilter }">
 </app-language-filter>
+<app-movie-info-modal
+  *ngIf="movieToShowInModale"
+  [movie]="movieToShowInModale"
+  (closeMovieInfoModale)="closeMovieInfoModale()"
+></app-movie-info-modal>
 <div class="movie-list">
   <app-movie-box
     *ngFor="let movie of moviesLoaded$ | async"
     [movie]="movie"
+    (openMovieModale)="openMovieInfoModale($event)"
   ></app-movie-box>
 </div>

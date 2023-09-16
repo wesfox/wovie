@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, EventEmitter, Input, OnInit, Output } from '@angular/core';
 import { Movie } from '../../interface/movie';
 
 @Component({
@@ -8,6 +8,7 @@ import { Movie } from '../../interface/movie';
 })
 export class MovieBoxComponent implements OnInit {
   @Input() movie?: Movie = undefined;
+  @Output() openMovieModale = new EventEmitter();
 
   public criticsRating!: string;
   public publicRating!: string;
@@ -19,5 +20,9 @@ export class MovieBoxComponent implements OnInit {
       this.publicRating = this.movie.spectateur?.toFixed(1) || '???';
       this.year = this.movie.date?.slice(-4) || '????';
     }
+  }
+
+  public onInfoClick() {
+    this.openMovieModale.emit(this.movie);
   }
 }

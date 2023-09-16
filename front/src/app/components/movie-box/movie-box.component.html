@@ -4,6 +4,7 @@
     class="poster"
     ImagePreloadDirective
     [default]="movie.name"
+    (click)="onInfoClick()"
   />
   <div class="notes">
     <span class="critics"
@@ -16,6 +17,6 @@
   </div>
   <div class="external-links">
     <a [href]="movie.url" class="button" target="_blank">Séances</a>
-    <a [href]="movie.url" class="button" target="_blank">Infos</a>
+    <a class="button" (click)="onInfoClick()">Infos</a>
   </div>
 </div>

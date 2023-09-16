@@ -10,6 +10,7 @@ import { FlagComponent } from './components/flag/flag.component';
 import { LanguageFilterComponent } from './components/language-filter/language-filter.component';
 import { MoviesService } from './service/movies.service';
 import { DropdownSelectComponent } from './components/dropdown-select/dropdown-select.component';
+import { MovieInfoModalComponent } from './components/movie-info-modal/movie-info-modal.component';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import { DropdownSelectComponent } from './components/dropdown-select/dropdown-s
     FlagComponent,
     LanguageFilterComponent,
     DropdownSelectComponent,
+    MovieInfoModalComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, HttpClientModule],
   providers: [MoviesService],

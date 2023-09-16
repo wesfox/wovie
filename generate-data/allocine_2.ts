@@ -10,6 +10,7 @@ interface Movie {
   name: string;
   url: string;
   id: string;
+  synopsis: string;
   sceances: Map<string, string>;
   critiquePress?: number;
   spectateur?: number;
@@ -88,23 +89,25 @@ for (const movie of parisMovies) {
   console.log(
     `Analysing movie ${movie.name} :  ${index + 1} over ${parisMovies.length}`,
   );
-  const noteNodes = await extractMultipleNodeFromPage(
+  const infosNodes = await extractMultipleNodeFromPage(
     `https://www.allocine.fr/film/fichefilm_gen_cfilm=${movie.id}.html`,
-    ['.stareval-note', '.meta-body-item > .date'],
+    ['.stareval-note', '.meta-body-item > .date', '.ovw-synopsis .content-txt'],
     'fiche-film',
   );
-  const castedNoteNodes = noteNodes[0].map((noteNode) =>
+  const castedNoteNodes = infosNodes[0].map((noteNode) =>
     Number(noteNode.innerHTML.replace(',', '.')),
   );
   const oldMovie = { ...parisMovies[index] };
-  const fullDate = noteNodes[1][0].innerHTML.trim();
+  const fullDate = infosNodes[1][0].innerHTML.trim();
+  const synopsis = infosNodes[2][0].text.trim();
   const year = fullDate.replace(/.+([\d]{4})$/, '$1');
   parisMovies[index] = {
     ...oldMovie,
     critiquePress: castedNoteNodes[0],
     spectateur: castedNoteNodes[1],
+    synopsis: synopsis,
     timestamp: Date.parse(
-      noteNodes[1][0].innerHTML
+      infosNodes[1][0].innerHTML
         .trim()
         .replace('janvier', 'january')
         .replace('février', 'february')
@@ -128,12 +131,14 @@ for (const movie of parisMovies) {
 
 parisMovies.sort((a, b) => scoreMovie(b) - scoreMovie(a));
 
-const output = parisMovies.map((movie) => ({
+const output: Movie[] = parisMovies.map((movie) => ({
+  id: movie.id,
   name: movie.name,
   critiquePress: movie.critiquePress,
   spectateur: movie.spectateur,
   date: movie.date,
   score: movie.score,
+  synopsis: movie.synopsis,
   language: movie.language,
   url: `https://www.allocine.fr/seance/film-${movie.id}/pres-de-115755/`,
   poster: movie.poster,

@@ -13,6 +13,7 @@ import { FilterType, ReleaseDateFilter } from './service/filter.type';
 export class AppComponent implements OnInit {
   public moviesLoaded$: Observable<Movie[]>;
   public showLangFilter = false;
+  public movieToShowInModale?: Movie;
 
   public dateOption = [
     {
@@ -40,6 +41,14 @@ export class AppComponent implements OnInit {
 
   constructor(private moviesService: MoviesService) {
     this.moviesLoaded$ = this.moviesService.getMoviesLoaded();
+  }
+
+  public openMovieInfoModale($event: any) {
+    this.movieToShowInModale = $event as Movie;
+  }
+
+  public closeMovieInfoModale() {
+    this.movieToShowInModale = undefined;
   }
 
   ngOnInit(): void {}
