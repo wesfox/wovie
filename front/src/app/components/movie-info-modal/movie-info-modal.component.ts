@@ -17,8 +17,6 @@ export class MovieInfoModalComponent implements OnInit, AfterViewInit {
   @Input() movie!: Movie;
   @Output() closeMovieInfoModale = new EventEmitter<void>();
 
-  constructor() {}
-
   wovieScore = 0;
   wovieScoreLabel = '';
   displayed = false;

@@ -18,6 +18,28 @@
   }
 }
 
+.img-wrapper {
+  position: relative;
+  cursor: pointer;
+}
+
+.movie-name {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  color: #ddd;
+  font-size: 1.2em;
+  padding: 5px 0px;
+  transition: padding 0.3s ease-in-out;
+}
+
+.img-wrapper:hover .movie-name {
+  padding: 10px 0px;
+}
+
 .external-links {
   display: flex;
   flex-direction: row;

@@ -1,11 +1,13 @@
 <div *ngIf="movie">
-  <img
-    [src]="movie.poster"
-    class="poster"
-    ImagePreloadDirective
-    [default]="movie.name"
-    (click)="onInfoClick()"
-  />
+  <div class="img-wrapper" (click)="onInfoClick()">
+    <img
+      [src]="movie.poster"
+      class="poster"
+      ImagePreloadDirective
+      [default]="movie.name"
+    />
+    <div class="movie-name">{{ movie.name }}</div>
+  </div>
   <div class="notes">
     <span class="critics"
       >{{ criticsRating }} <img src="assets/icons/pen.svg"
